@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T14:39:23Z",
+  "generated_at": "2026-11-19T22:51:11Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -40,27 +40,70 @@
     "8e8f25bbdafd9861f4d9": "2026-11-19T07:03:24Z",
     "3e9cb39f3bb2258da74a": "2026-11-19T07:03:35Z",
     "b0202a1fe0d65e513533": "2026-11-19T07:03:49Z",
+    "74c148990aacfe78a076": "2026-11-19T14:55:44Z",
+    "d67107a14ca02920093a": "2026-11-19T14:58:02Z",
+    "fb5b2c0f1b2d38d7244c": "2026-11-19T14:58:02Z",
+    "e16f2782e5ac5ce0ae77": "2026-11-19T14:58:02Z",
+    "70df4f7cc4c3a830eed6": "2026-11-19T15:12:13Z",
+    "cc0a65354fbc3d41c98c": "2026-11-19T15:18:43Z",
+    "1f30101bc8ac799fb555": "2026-11-19T15:18:43Z",
+    "3d01e62cfb7b797314e8": "2026-11-19T15:18:43Z",
+    "c7da3a61fac346985c89": "2026-11-19T15:19:23Z",
+    "f885d141f726ebba3ef5": "2026-11-19T15:20:46Z",
+    "e71d77b88532e3189ef8": "2026-11-19T15:22:22Z",
+    "2dbc76fbd50bbc3a9d69": "2026-11-19T15:25:58Z",
+    "cc67e0227fac9f7bbb35": "2026-11-19T15:31:05Z",
+    "1a354f5b2690da0e0c35": "2026-11-19T15:33:03Z",
+    "11685f6dda7e985946dc": "2026-11-19T15:33:03Z",
+    "3432eb43ccf004100051": "2026-11-19T15:33:03Z",
+    "76b449be63961afae961": "2026-11-19T15:33:16Z",
+    "c19de4596658d828fb69": "2026-11-19T15:38:41Z",
     "bfeb05425a994329bc09": "2026-11-18T23:41:54Z",
     "a9cf2cbfc915fcfe06ee": "2026-11-18T23:51:35Z",
     "4abe23aea4142c77ae27": "2026-11-19T00:02:12Z",
     "046f05a5e9e867ee3cf1": "2026-11-19T14:16:24Z",
     "c19441c5764040bb44a8": "2026-11-19T14:17:56Z",
-    "70df4f7cc4c3a830eed6": "2026-11-19T14:19:25Z",
     "5125658348e9785edd97": "2026-11-19T14:21:02Z",
-    "2dbc76fbd50bbc3a9d69": "2026-11-19T14:22:58Z",
     "e477932fb6c8a2d64dfb": "2026-11-19T14:24:27Z",
-    "c7da3a61fac346985c89": "2026-11-19T14:26:10Z",
-    "f885d141f726ebba3ef5": "2026-11-19T14:27:45Z",
     "e04bd216b4df64fba49e": "2026-11-19T14:29:18Z",
-    "e71d77b88532e3189ef8": "2026-11-19T14:30:55Z",
     "ec3e8372b6d6f2cbe600": "2026-11-19T14:33:09Z",
     "20ef96ca76574bff988b": "2026-11-19T14:33:21Z",
-    "76b449be63961afae961": "2026-11-19T14:34:48Z",
     "a972ed8a459d7d6b0208": "2026-11-19T14:36:44Z",
     "b4c90f1a93e1291e2cf2": "2026-11-19T14:39:09Z",
-    "10e7b4c20f2d8bb63aa3": "2026-11-19T14:39:23Z"
+    "10e7b4c20f2d8bb63aa3": "2026-11-19T14:39:23Z",
+    "ff9795888fa07212230c": "2026-11-19T22:27:07Z",
+    "2c34722d60ce76ebc830": "2026-11-19T22:29:02Z",
+    "fd10c969a8ce1f38eef6": "2026-11-19T22:29:06Z",
+    "c471b5a5338f67bffcfa": "2026-11-19T22:30:24Z",
+    "87006be291a440e9f04e": "2026-11-19T22:31:39Z",
+    "a8c56dee44f5dca6228e": "2026-11-19T22:34:17Z",
+    "f89f31d484b3a3678580": "2026-11-19T22:37:40Z",
+    "60f3f3b9027cb73dcd57": "2026-11-19T22:38:54Z",
+    "c17696af1f93c580a409": "2026-11-19T22:40:46Z",
+    "2d758a8b9a9aa7ca2e0b": "2026-11-19T22:41:28Z",
+    "04b3a4b87929c286a77b": "2026-11-19T22:43:01Z",
+    "e7c103ee96f35088b691": "2026-11-19T22:46:02Z",
+    "970214e2ee471eded601": "2026-11-19T22:47:39Z",
+    "fdf861f523ce40de99ee": "2026-11-19T22:49:19Z",
+    "504b9ec7eb57a883e762": "2026-11-19T22:49:28Z",
+    "d6e60e06c97f3430f223": "2026-11-19T22:51:11Z"
   },
   "sources": {
+    "twitch-vod:2932866051": {
+      "key": "twitch-vod:2932866051",
+      "url": "https://www.twitch.tv/videos/2932866051",
+      "platform": "twitch-vod",
+      "title": "Yo estuve aquí ❤️ - Grand Theft Auto VI #1",
+      "creator": "IlloJuan",
+      "duration": 18760.0,
+      "views": 603939,
+      "published": "2026-11-18T23:15:54Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "twitch-vod:2933581876": {
       "key": "twitch-vod:2933581876",
       "url": "https://www.twitch.tv/videos/2933581876",
@@ -85,8 +128,23 @@
       "title": "Can a TANK Survive a 6-STAR Police Chase in GTA 6? | PS5 Pro Gameplay",
       "creator": "GameV",
       "duration": 572.0,
-      "views": 480220,
+      "views": 792691,
       "published": "2026-11-18T21:05:14Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:-euBHK6uYrg": {
+      "key": "youtube:-euBHK6uYrg",
+      "url": "https://www.youtube.com/watch?v=-euBHK6uYrg",
+      "platform": "youtube",
+      "title": "GTA 6 But I CAN'T Break Any Laws..",
+      "creator": "Caylus  ",
+      "duration": 763.0,
+      "views": 567221,
+      "published": "2026-11-19T09:46:36Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -100,8 +158,38 @@
       "title": "GTA 6 - Free Roam Exploring - NEXT GEN Ray Tracing Looks INCREDIBLE! (4K Open World)",
       "creator": "DubStepZz",
       "duration": 2606.0,
-      "views": 126308,
+      "views": 638923,
       "published": "2026-11-18T22:30:28Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:CK6XFkFSoyc": {
+      "key": "youtube:CK6XFkFSoyc",
+      "url": "https://www.youtube.com/watch?v=CK6XFkFSoyc",
+      "platform": "youtube",
+      "title": "GTA 6 VS GTA 4 (CAR PHYSICS COMPARISON)",
+      "creator": "Onespot Gaming",
+      "duration": 679.0,
+      "views": 646215,
+      "published": "2026-11-18T21:03:02Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:CukTYtF72KY": {
+      "key": "youtube:CukTYtF72KY",
+      "url": "https://www.youtube.com/watch?v=CukTYtF72KY",
+      "platform": "youtube",
+      "title": "GTA 6 Walkthrough Gameplay Part 2 - JASON DUVAL (GRAND THEFT AUTO 6)",
+      "creator": "theRadBrad",
+      "duration": 3741.0,
+      "views": 711145,
+      "published": "2026-11-19T15:00:35Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -115,7 +203,7 @@
       "title": "🔴 LIVE! - GTA 6 EARLY ACCESS with TYPICAL GAMER! (PS5 PRO)",
       "creator": "Typical Gamer",
       "duration": 35745.0,
-      "views": 2573213,
+      "views": 2693978,
       "published": "2026-11-19T01:16:55Z",
       "rights": "unspecified",
       "anchors": [],
@@ -132,6 +220,21 @@
       "duration": 1430.0,
       "views": 275063,
       "published": "2026-11-18T22:05:26Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:TFmtM1kRWp4": {
+      "key": "youtube:TFmtM1kRWp4",
+      "url": "https://www.youtube.com/watch?v=TFmtM1kRWp4",
+      "platform": "youtube",
+      "title": "🔴GTA 6 IS FINALLY HERE | LIVE GTA VI INDIA",
+      "creator": "Xyaa",
+      "duration": 21162.0,
+      "views": 696980,
+      "published": "2026-11-19T06:02:28Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -160,7 +263,7 @@
       "title": "Grand Theft Auto 6 Gameplay and Impressions...",
       "creator": "jackfrags",
       "duration": 2218.0,
-      "views": 1299125,
+      "views": 2356613,
       "published": "2026-11-18T22:04:15Z",
       "rights": "unspecified",
       "anchors": [],
@@ -220,8 +323,53 @@
       "title": "GTA 6 Is Already a DISASTER...",
       "creator": "Jaac",
       "duration": 501.0,
-      "views": 108528,
+      "views": 133757,
       "published": "2026-11-18T22:37:02Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:oyHFwPNd_c4": {
+      "key": "youtube:oyHFwPNd_c4",
+      "url": "https://www.youtube.com/watch?v=oyHFwPNd_c4",
+      "platform": "youtube",
+      "title": "So I Played GTA 6..",
+      "creator": "Asmongold TV  ",
+      "duration": 32523.0,
+      "views": 2559983,
+      "published": "2026-11-19T05:07:12Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:wpKUZWI0Ch4": {
+      "key": "youtube:wpKUZWI0Ch4",
+      "url": "https://www.youtube.com/watch?v=wpKUZWI0Ch4",
+      "platform": "youtube",
+      "title": "🔴 GTA VI U.S. Launch LIVE on PS5 Pro | Story Mode playthrough",
+      "creator": "SteveTheGamer55",
+      "duration": 23355.0,
+      "views": 274148,
+      "published": "2026-11-19T04:06:16Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:xbxObXdx9fU": {
+      "key": "youtube:xbxObXdx9fU",
+      "url": "https://www.youtube.com/watch?v=xbxObXdx9fU",
+      "platform": "youtube",
+      "title": "GTA 6 FREE ROAM GAMEPLAY! (Beach Rampage, Military Base & More!)",
+      "creator": "XpertThief",
+      "duration": 6087.0,
+      "views": 203769,
+      "published": "2026-11-19T01:48:01Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -254,6 +402,16 @@
     },
     {
       "span": {
+        "source": "youtube:HzzzoomJ-Os",
+        "start": 12450.4,
+        "end": 12744.4
+      },
+      "theme": "mission",
+      "story": "A continuous sequence of open-world exploration and mission driving, starting with the auto-drive feature discovery, navigating through traffic and bridges, experiencing a severe collision, and arriving at the warehouse to talk to NPCs.",
+      "score": 92.0
+    },
+    {
+      "span": {
         "source": "youtube:Wd-vKw3XYP0",
         "start": 659.57,
         "end": 919.57
@@ -261,6 +419,96 @@
       "theme": "discovery",
       "story": "The player explores the docks, interacts with wildlife, strolls through downtown Vice City at sunset, visits clothing stores, hangs out in a club lounge, and ends up in an escalating police chase after stealing a tour bus.",
       "score": 90.0
+    },
+    {
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 182.0,
+        "end": 465.0
+      },
+      "theme": "driving",
+      "story": "Jason explores his hideout, steps out onto the balcony overlooking the water, retrieves a motorcycle from underneath the stilted house, and takes a scenic drive through the town while receiving phone calls.",
+      "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:CK6XFkFSoyc",
+        "start": 63.08,
+        "end": 339.08
+      },
+      "theme": "discovery",
+      "story": "A structured physics comparison demonstrating tyre shooting, water splashes, vehicle handling feedback, braking distances, and directional force.",
+      "score": 88.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2932866051",
+        "start": 70.0,
+        "end": 390.0
+      },
+      "theme": "discovery",
+      "story": "The streamer accidentally deletes the Grand Theft Auto VI download on his PlayStation 5 console while interacting with the interface, reacts with shock and embarrassment, and explains the mistake to his viewers.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 20770.64,
+        "end": 21035.64
+      },
+      "theme": "mission",
+      "story": "The streamer plays through a seaplane mission, landing on water, dealing with airborne dialog, and arriving back at the home base to interact with a probation officer.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 2088.91,
+        "end": 2353.91
+      },
+      "theme": "mission",
+      "story": "Jason wakes up at his safehouse, checks his mailbox for $1200 from Brian, plays a quick minigame of hoops under his stilt house, stashes money in his floor vault, repairs drywall with a power drill, drinks a protein shake from the fridge, and changes his outfit before driving out to check the map for new available work from Kenton.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "youtube:TFmtM1kRWp4",
+        "start": 11657.0,
+        "end": 11917.0
+      },
+      "theme": "mission",
+      "story": "The streamer reviews Jason's stats and objectives, heads to the Crastenburg Hotel to meet Brian, and drives to pick up another contact while navigating the open world.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "youtube:-euBHK6uYrg",
+        "start": 254.16,
+        "end": 524.16
+      },
+      "theme": "driving",
+      "story": "The player drives a silver car through the streets of Vice City while trying to obey traffic laws, using indicators, navigating intersections, and reacting to random NPC traffic events and minor collisions.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "youtube:wpKUZWI0Ch4",
+        "start": 13095.88,
+        "end": 13357.88
+      },
+      "theme": "driving",
+      "story": "Jason drives his red Vapid El Camino around Key Lento, checks the map for a mod shop and Pay 'n' Spray to fix and customize his car, then drives to Coastal Auto Care where he upgrades the vehicle's appearance with a yellow and orange retro build and custom liveries.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "youtube:xbxObXdx9fU",
+        "start": 2160.13,
+        "end": 2514.13
+      },
+      "theme": "chase",
+      "story": "The player runs through the city streets trying to find a vehicle, attempts to hijack multiple cars while interacting with viewers, and drives away pursued by police units.",
+      "score": 85.0
     },
     {
       "span": {
@@ -280,16 +528,6 @@
       },
       "theme": "discovery",
       "story": "The player explores the rural swamp and forest areas of the map, investigating strange locations, driving through dirt roads, and encountering the mysterious swamp tree.",
-      "score": 85.0
-    },
-    {
-      "span": {
-        "source": "youtube:HzzzoomJ-Os",
-        "start": 12434.4,
-        "end": 12699.4
-      },
-      "theme": "mission",
-      "story": "The player navigates Vicki's convertible through the game world under Chapter 2: Girls Trip, exploring auto-drive features, driving through scenic highways and trailer parks, and conversing with passengers about local gangs before arriving at the boathouse warehouse.",
       "score": 85.0
     },
     {
@@ -334,6 +572,16 @@
     },
     {
       "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 75.0,
+        "end": 335.0
+      },
+      "theme": "mission",
+      "story": "The intro cinematic and early narrative scenes showing Jason and Lucia interacting, stealing a car, and interacting with police.",
+      "score": 80.0
+    },
+    {
+      "span": {
         "source": "twitch-vod:2933581876",
         "start": 8352.0,
         "end": 8612.0
@@ -351,6 +599,16 @@
       "theme": "chase",
       "story": "The player breaches the airport security gate in a truck, evades ground patrols across the tarmac, boards a private jet, and takes off into the skies while police issue air support alerts.",
       "score": 72.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2932866051",
+        "start": 5043.5,
+        "end": 5308.5
+      },
+      "theme": "other",
+      "story": "The streamer navigates through Grand Theft Auto VI menus, adjusting interface, brightness, controls, and accessibility settings before experiencing the opening cinematic cutscenes set in Vice City.",
+      "score": 70.0
     },
     {
       "span": {
