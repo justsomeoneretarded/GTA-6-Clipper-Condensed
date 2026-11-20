@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T03:25:36Z",
+  "generated_at": "2026-11-20T19:39:50Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -80,6 +80,26 @@
     "abc0289b2182a7f540de": "2026-11-20T00:10:06Z",
     "aaab99a9f16efcaa7216": "2026-11-20T00:10:06Z",
     "37fc5bd7f97afbf33f4f": "2026-11-20T00:10:56Z",
+    "74d13b486a761cab6704": "2026-11-20T14:15:58Z",
+    "cf52e6c698cab0796228": "2026-11-20T14:16:42Z",
+    "9758bb601db2ba3f906e": "2026-11-20T14:16:42Z",
+    "1aced8a309b6ae9c834f": "2026-11-20T14:16:42Z",
+    "af952c09a32c946f512f": "2026-11-20T14:16:52Z",
+    "80924f01d20eca975d89": "2026-11-20T14:21:30Z",
+    "29a0cbf9de1044590b95": "2026-11-20T14:22:54Z",
+    "31ca09422b0df72881c8": "2026-11-20T14:25:33Z",
+    "f697b92691050df0c263": "2026-11-20T14:25:43Z",
+    "b5b00ddfb027c36d8626": "2026-11-20T14:29:02Z",
+    "e37e67d77f2c51d8d39c": "2026-11-20T14:29:43Z",
+    "38aefda7ff2d4220abd1": "2026-11-20T14:30:19Z",
+    "917ca0428d968c2559d2": "2026-11-20T14:30:19Z",
+    "5afb654e7d15a7486e33": "2026-11-20T14:30:19Z",
+    "46732ed826404ac028dd": "2026-11-20T14:30:34Z",
+    "02ff0c87704a3fcd4fed": "2026-11-20T14:32:18Z",
+    "2d5e093dff0d0b12b2a8": "2026-11-20T14:33:07Z",
+    "ec3e8372b6d6f2cbe600": "2026-11-20T14:35:52Z",
+    "a5bb52178700b6dccbc0": "2026-11-20T14:36:02Z",
+    "cf0533019f5f36dde0f6": "2026-11-20T14:37:38Z",
     "bfeb05425a994329bc09": "2026-11-18T23:41:54Z",
     "a9cf2cbfc915fcfe06ee": "2026-11-18T23:51:35Z",
     "4abe23aea4142c77ae27": "2026-11-19T00:02:12Z",
@@ -88,7 +108,6 @@
     "5125658348e9785edd97": "2026-11-19T14:21:02Z",
     "e477932fb6c8a2d64dfb": "2026-11-19T14:24:27Z",
     "e04bd216b4df64fba49e": "2026-11-19T14:29:18Z",
-    "ec3e8372b6d6f2cbe600": "2026-11-19T14:33:09Z",
     "20ef96ca76574bff988b": "2026-11-19T14:33:21Z",
     "a972ed8a459d7d6b0208": "2026-11-19T14:36:44Z",
     "b4c90f1a93e1291e2cf2": "2026-11-19T14:39:09Z",
@@ -107,8 +126,6 @@
     "d3633b46b845bae21486": "2026-11-20T03:09:13Z",
     "04ea9d6378efdde92a6c": "2026-11-20T03:09:23Z",
     "5be3872c48f6562ce2f4": "2026-11-20T03:11:05Z",
-    "f697b92691050df0c263": "2026-11-20T03:12:46Z",
-    "a5bb52178700b6dccbc0": "2026-11-20T03:14:24Z",
     "31028ebb491ce150db9b": "2026-11-20T03:15:46Z",
     "b185d7ef3df9e4e1b14c": "2026-11-20T03:17:23Z",
     "8ac8cee35692e7b2853e": "2026-11-20T03:19:01Z",
@@ -118,9 +135,39 @@
     "ed33b0b0dc9fe90472c3": "2026-11-20T03:22:47Z",
     "ebc6c9fbb576d1b807d6": "2026-11-20T03:22:53Z",
     "c3266afbf6e791c54709": "2026-11-20T03:24:49Z",
-    "ecac0b3a687d67313385": "2026-11-20T03:25:36Z"
+    "ecac0b3a687d67313385": "2026-11-20T03:25:36Z",
+    "31bf23bf0c6ec5e77dc1": "2026-11-20T19:17:11Z",
+    "d425bb99899a9e307e52": "2026-11-20T19:19:07Z",
+    "3a3b9ab72046f24240a6": "2026-11-20T19:19:16Z",
+    "43facc4b5d897549778f": "2026-11-20T19:22:35Z",
+    "2e86ae4fe26a63b14983": "2026-11-20T19:22:39Z",
+    "c8f8aa543be8a3318b5a": "2026-11-20T19:25:47Z",
+    "c4bdb741c91c0d0b1552": "2026-11-20T19:26:24Z",
+    "c4db2631ad8327984768": "2026-11-20T19:30:15Z",
+    "9b0536b3caf7c5d3f3de": "2026-11-20T19:30:23Z",
+    "00a50d774336d2a6917f": "2026-11-20T19:33:46Z",
+    "ac8320cd8c58e03e275f": "2026-11-20T19:33:52Z",
+    "240eabbe53b7202beb97": "2026-11-20T19:37:29Z",
+    "a597ac67f6da5a35e9c9": "2026-11-20T19:37:35Z",
+    "fad6878a1eb93e074d99": "2026-11-20T19:39:34Z",
+    "68e7168b60299682d11e": "2026-11-20T19:39:50Z"
   },
   "sources": {
+    "twitch-vod:2932809277": {
+      "key": "twitch-vod:2932809277",
+      "url": "https://www.twitch.tv/videos/2932809277",
+      "platform": "twitch-vod",
+      "title": "GTA 6 LAUNCH STREAM! Playing GTA 6 For the First Time",
+      "creator": "TGG_gta",
+      "duration": 12085.0,
+      "views": 54686,
+      "published": "2026-11-18T22:44:11Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "twitch-vod:2932866051": {
       "key": "twitch-vod:2932866051",
       "url": "https://www.twitch.tv/videos/2932866051",
@@ -128,8 +175,23 @@
       "title": "Yo estuve aquí ❤️ - Grand Theft Auto VI #1",
       "creator": "IlloJuan",
       "duration": 18760.0,
-      "views": 603939,
+      "views": 5631664,
       "published": "2026-11-18T23:15:54Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-vod:2933538555": {
+      "key": "twitch-vod:2933538555",
+      "url": "https://www.twitch.tv/videos/2933538555",
+      "platform": "twitch-vod",
+      "title": "GTA 6 LAUNCH STREAM! Playing GTA 6 For the First Time",
+      "creator": "TGG_gta",
+      "duration": 13109.0,
+      "views": 70683,
+      "published": "2026-11-19T10:12:55Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -142,16 +204,14 @@
       "platform": "twitch-vod",
       "title": "SAM IN LIVE, ma nouvelle émission gaming avec Jeuxvideo.com, 1er numéro consacré bien sûr à GTA 6 !",
       "creator": "samueletienne",
-      "duration": 8772,
-      "views": 40,
+      "duration": 11091.0,
+      "views": 81843,
       "published": "2026-11-19T11:28:40Z",
       "rights": "unspecified",
-      "anchors": [
-        8652
-      ],
+      "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": true
+      "recording": false
     },
     "twitch-vod:2934375809": {
       "key": "twitch-vod:2934375809",
@@ -209,6 +269,21 @@
       "duration": 7516.0,
       "views": 8861516,
       "published": "2026-11-19T13:30:31Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:5tdj53ioJ-c": {
+      "key": "youtube:5tdj53ioJ-c",
+      "url": "https://www.youtube.com/watch?v=5tdj53ioJ-c",
+      "platform": "youtube",
+      "title": "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)",
+      "creator": "Kai Cenat Live",
+      "duration": 42141.0,
+      "views": 4342865,
+      "published": "2026-11-19T12:54:38Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -275,6 +350,21 @@
       "parent_offset": null,
       "recording": false
     },
+    "youtube:GFynyp0hHfE": {
+      "key": "youtube:GFynyp0hHfE",
+      "url": "https://www.youtube.com/watch?v=GFynyp0hHfE",
+      "platform": "youtube",
+      "title": "GTA 6 has everyone fighting..",
+      "creator": "Asmongold TV  ",
+      "duration": 2575.0,
+      "views": 2303677,
+      "published": "2026-11-20T06:32:52Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "youtube:HzzzoomJ-Os": {
       "key": "youtube:HzzzoomJ-Os",
       "url": "https://www.youtube.com/watch?v=HzzzoomJ-Os",
@@ -282,7 +372,7 @@
       "title": "🔴 LIVE! - GTA 6 EARLY ACCESS with TYPICAL GAMER! (PS5 PRO)",
       "creator": "Typical Gamer",
       "duration": 35745.0,
-      "views": 2733984,
+      "views": 2777402,
       "published": "2026-11-19T01:16:55Z",
       "rights": "unspecified",
       "anchors": [],
@@ -342,7 +432,7 @@
       "title": "Grand Theft Auto 6 Gameplay and Impressions...",
       "creator": "jackfrags",
       "duration": 2218.0,
-      "views": 2755056,
+      "views": 3123414,
       "published": "2026-11-18T22:04:15Z",
       "rights": "unspecified",
       "anchors": [],
@@ -380,6 +470,21 @@
       "parent_offset": null,
       "recording": false
     },
+    "youtube:YylVwL4UIFU": {
+      "key": "youtube:YylVwL4UIFU",
+      "url": "https://www.youtube.com/watch?v=YylVwL4UIFU",
+      "platform": "youtube",
+      "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
+      "creator": "TheBurntPeanut",
+      "duration": 57359.0,
+      "views": 3168072,
+      "published": "2026-11-19T19:13:20Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "youtube:eEERhKQZWmY": {
       "key": "youtube:eEERhKQZWmY",
       "url": "https://www.youtube.com/watch?v=eEERhKQZWmY",
@@ -402,7 +507,7 @@
       "title": "GTA 6 - Ocean Beach Shootout + Five Star Escape",
       "creator": "Mike The Goon",
       "duration": 861.0,
-      "views": 370436,
+      "views": 501140,
       "published": "2026-11-19T11:46:27Z",
       "rights": "unspecified",
       "anchors": [],
@@ -440,6 +545,21 @@
       "parent_offset": null,
       "recording": false
     },
+    "youtube:hwSg39yIBGU": {
+      "key": "youtube:hwSg39yIBGU",
+      "url": "https://www.youtube.com/watch?v=hwSg39yIBGU",
+      "platform": "youtube",
+      "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
+      "creator": "IShowSpeed",
+      "duration": 85282.0,
+      "views": 35981362,
+      "published": "2026-11-19T13:04:39Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "youtube:iJBRYwSiYGE": {
       "key": "youtube:iJBRYwSiYGE",
       "url": "https://www.youtube.com/watch?v=iJBRYwSiYGE",
@@ -447,7 +567,7 @@
       "title": "ESTE JUEGO ES INCREIBLE (GTA 6, Capitulo 1)",
       "creator": "Rubius Z",
       "duration": 6658.0,
-      "views": 3715998,
+      "views": 4686336,
       "published": "2026-11-18T21:38:08Z",
       "rights": "unspecified",
       "anchors": [],
@@ -514,6 +634,36 @@
       "parent": "",
       "parent_offset": null,
       "recording": false
+    },
+    "youtube:yX4DH_msPkI": {
+      "key": "youtube:yX4DH_msPkI",
+      "url": "https://www.youtube.com/watch?v=yX4DH_msPkI",
+      "platform": "youtube",
+      "title": "PLAYING GTA 6 FOR THE FIRST TIME (PART 4)",
+      "creator": "Kai Cenat Live",
+      "duration": 41640.0,
+      "views": 2707026,
+      "published": "2026-11-20T01:04:50Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:ymCHX_Dcc-U": {
+      "key": "youtube:ymCHX_Dcc-U",
+      "url": "https://www.youtube.com/watch?v=ymCHX_Dcc-U",
+      "platform": "youtube",
+      "title": "I Survived 100 Hours In GTA 6",
+      "creator": "MrBeast Gaming",
+      "duration": 1821.0,
+      "views": 29098685,
+      "published": "2026-11-19T18:00:01Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
     }
   },
   "moments": [],
@@ -561,6 +711,16 @@
     },
     {
       "span": {
+        "source": "twitch-vod:2933538555",
+        "start": 195.0,
+        "end": 465.0
+      },
+      "theme": "mission",
+      "story": "Lucia carjacks an Ocelot Jugular, drives to Watkins Auto Parts, and negotiates with Moses to prove her car boosting skills.",
+      "score": 92.0
+    },
+    {
+      "span": {
         "source": "youtube:Wd-vKw3XYP0",
         "start": 659.57,
         "end": 919.57
@@ -588,6 +748,26 @@
       "theme": "discovery",
       "story": "Jason starts at his Key Lento safehouse, checks his mailbox for a cash payout from Brian, shoots hoops at the basketball hoop, stashes cash under the floorboards, works on home renovations including drywall and repairing exterior stairs, changes his outfit in the wardrobe, and drives off in his Vapid truck.",
       "score": 90.0
+    },
+    {
+      "span": {
+        "source": "youtube:YylVwL4UIFU",
+        "start": 41166.9,
+        "end": 41431.9
+      },
+      "theme": "mission",
+      "story": "The player navigates through various missions, evades police, steals vehicles, and completes objectives across the map.",
+      "score": 90.0
+    },
+    {
+      "span": {
+        "source": "youtube:ymCHX_Dcc-U",
+        "start": 180.0,
+        "end": 470.0
+      },
+      "theme": "mission",
+      "story": "The streamers drive motorcycles through city streets, rob a series of convenience stores and pawn shops to accumulate thousands of dollars, and explore the open countryside by car.",
+      "score": 88.0
     },
     {
       "span": {
@@ -628,6 +808,26 @@
       "theme": "discovery",
       "story": "Jason travels from city streets on a moped to the beach, interacts with an AI-obsessed eccentric stranger, and encounters wildlife on the shore.",
       "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:yX4DH_msPkI",
+        "start": 70.0,
+        "end": 330.0
+      },
+      "theme": "driving",
+      "story": "The player drives a red car through scenic roads of Leonida, opens the map and phone menus to check notifications and missions involving characters Jason and Lucia, manages vehicle trunk storage, and interacts with people in-game.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "youtube:GFynyp0hHfE",
+        "start": 1803.65,
+        "end": 2063.65
+      },
+      "theme": "podcast",
+      "story": "Asmongold watches and reacts to an entire news segment discussing Grand Theft Auto VI, critiquing the commentary and engaging with chat reactions.",
+      "score": 85.0
     },
     {
       "span": {
@@ -848,6 +1048,46 @@
       "theme": "discovery",
       "story": "The player explores the interior of a shopping mall, checking out different stores, interacting with clothes and mannequins, and discussing store layouts.",
       "score": 80.0
+    },
+    {
+      "span": {
+        "source": "youtube:hwSg39yIBGU",
+        "start": 26821.39,
+        "end": 27171.39
+      },
+      "theme": "mission",
+      "story": "The player drives through Vice City, visits an Ammu-Nation store to manage weapon loadouts and ammunition, drives to a planning room, and triggers a cinematic cutscene where the crew details roles for an upcoming bank heist.",
+      "score": 80.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2932809277",
+        "start": 73.0,
+        "end": 345.0
+      },
+      "theme": "driving",
+      "story": "The streamer discusses being sleep-deprived for the GTA VI launch, opens the weapon menu, navigates the game map to locate missions around Key Lento, and prepares to drive.",
+      "score": 80.0
+    },
+    {
+      "span": {
+        "source": "youtube:5tdj53ioJ-c",
+        "start": 12100.09,
+        "end": 12364.09
+      },
+      "theme": "mission",
+      "story": "The sequence follows the player driving through Vice City, arriving at the apartment, navigating the interior, and interacting with Lucia before they prepare to go out.",
+      "score": 75.0
+    },
+    {
+      "span": {
+        "source": "youtube:HzzzoomJ-Os",
+        "start": 11833.88,
+        "end": 12118.88
+      },
+      "theme": "mission",
+      "story": "Lucia drives through the countryside, arrives at Delights strip club, interacts with Frankie Delight and other patrons, and explores the venue during a mission.",
+      "score": 75.0
     },
     {
       "span": {
