@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T19:39:50Z",
+  "generated_at": "2026-11-21T01:37:07Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -100,6 +100,25 @@
     "ec3e8372b6d6f2cbe600": "2026-11-20T14:35:52Z",
     "a5bb52178700b6dccbc0": "2026-11-20T14:36:02Z",
     "cf0533019f5f36dde0f6": "2026-11-20T14:37:38Z",
+    "ff27cfa3fb5932d92a55": "2026-11-20T23:29:51Z",
+    "779160e7102f60897a9a": "2026-11-20T23:29:51Z",
+    "cf5fbea28237ea34e6d5": "2026-11-20T23:29:51Z",
+    "e3216dee56d72961fc57": "2026-11-20T23:30:02Z",
+    "c8f8aa543be8a3318b5a": "2026-11-20T23:31:47Z",
+    "3d38afa7b37a48e95df5": "2026-11-20T23:32:24Z",
+    "d42c5a8b02ee8e9aeee5": "2026-11-20T23:34:20Z",
+    "c4bdb741c91c0d0b1552": "2026-11-20T23:34:31Z",
+    "2354461ffbed77196e53": "2026-11-20T23:35:32Z",
+    "897bac7dabdc129f85ae": "2026-11-20T23:35:44Z",
+    "691d90142ce4fcf501d8": "2026-11-20T23:36:12Z",
+    "3d59340e4b21b3b0782e": "2026-11-20T23:36:12Z",
+    "6e59d61dc23b68bdb604": "2026-11-20T23:36:12Z",
+    "3d152c08a8e2d87cd524": "2026-11-20T23:36:23Z",
+    "7613042990c7b22416b0": "2026-11-20T23:37:40Z",
+    "a597ac67f6da5a35e9c9": "2026-11-20T23:37:48Z",
+    "97c8fd8126983d7e7f9f": "2026-11-20T23:40:08Z",
+    "408fe92be52b80b9132d": "2026-11-20T23:40:15Z",
+    "a2be01380f2d828b2428": "2026-11-20T23:42:55Z",
     "bfeb05425a994329bc09": "2026-11-18T23:41:54Z",
     "a9cf2cbfc915fcfe06ee": "2026-11-18T23:51:35Z",
     "4abe23aea4142c77ae27": "2026-11-19T00:02:12Z",
@@ -141,16 +160,29 @@
     "3a3b9ab72046f24240a6": "2026-11-20T19:19:16Z",
     "43facc4b5d897549778f": "2026-11-20T19:22:35Z",
     "2e86ae4fe26a63b14983": "2026-11-20T19:22:39Z",
-    "c8f8aa543be8a3318b5a": "2026-11-20T19:25:47Z",
-    "c4bdb741c91c0d0b1552": "2026-11-20T19:26:24Z",
     "c4db2631ad8327984768": "2026-11-20T19:30:15Z",
     "9b0536b3caf7c5d3f3de": "2026-11-20T19:30:23Z",
     "00a50d774336d2a6917f": "2026-11-20T19:33:46Z",
     "ac8320cd8c58e03e275f": "2026-11-20T19:33:52Z",
     "240eabbe53b7202beb97": "2026-11-20T19:37:29Z",
-    "a597ac67f6da5a35e9c9": "2026-11-20T19:37:35Z",
     "fad6878a1eb93e074d99": "2026-11-20T19:39:34Z",
-    "68e7168b60299682d11e": "2026-11-20T19:39:50Z"
+    "68e7168b60299682d11e": "2026-11-20T19:39:50Z",
+    "b71e51d1660d1d477e22": "2026-11-21T01:15:39Z",
+    "361cf803ae4a20efbef8": "2026-11-21T01:17:42Z",
+    "f4c09cd600ffdc7c8a61": "2026-11-21T01:19:53Z",
+    "59a658ad60880cb52195": "2026-11-21T01:21:14Z",
+    "c2b45136b2303618f221": "2026-11-21T01:22:20Z",
+    "e5389083983c3c28684f": "2026-11-21T01:23:27Z",
+    "9e959697ca839c00d34f": "2026-11-21T01:24:33Z",
+    "c06184e4b6687bd2a2b2": "2026-11-21T01:25:41Z",
+    "4df29e2e984bf89f0b30": "2026-11-21T01:26:33Z",
+    "276d11f58aab2b28f157": "2026-11-21T01:28:42Z",
+    "3b2bc90730f17e874bd5": "2026-11-21T01:29:32Z",
+    "9edb35d15f5fcce0813f": "2026-11-21T01:30:24Z",
+    "f1c020bc3a195abc9cff": "2026-11-21T01:32:37Z",
+    "7d495f7b596a0d54df68": "2026-11-21T01:34:53Z",
+    "8e0529ca19baaf80e646": "2026-11-21T01:36:05Z",
+    "6f14851a4307b07c31f4": "2026-11-21T01:37:07Z"
   },
   "sources": {
     "twitch-vod:2932809277": {
@@ -175,8 +207,38 @@
       "title": "Yo estuve aquí ❤️ - Grand Theft Auto VI #1",
       "creator": "IlloJuan",
       "duration": 18760.0,
-      "views": 5631664,
+      "views": 5639927,
       "published": "2026-11-18T23:15:54Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-vod:2933358512": {
+      "key": "twitch-vod:2933358512",
+      "url": "https://www.twitch.tv/videos/2933358512",
+      "platform": "twitch-vod",
+      "title": "GTA VI 🌴💃 HASTA QUE EL CUERPO AGUANTE",
+      "creator": "AriGameplays",
+      "duration": 16297.0,
+      "views": 319264,
+      "published": "2026-11-19T05:47:44Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-vod:2933527290": {
+      "key": "twitch-vod:2933527290",
+      "url": "https://www.twitch.tv/videos/2933527290",
+      "platform": "twitch-vod",
+      "title": "[DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 18 | !spenden !spendenziel !revolut !scuf",
+      "creator": "xRohat",
+      "duration": 94322.0,
+      "views": 1271048,
+      "published": "2026-11-19T09:52:53Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -213,22 +275,110 @@
       "parent_offset": null,
       "recording": false
     },
+    "twitch-vod:2933789253": {
+      "key": "twitch-vod:2933789253",
+      "url": "https://www.twitch.tv/videos/2933789253",
+      "platform": "twitch-vod",
+      "title": "DÍA 2 🦩 INSTALANDO GTA VI 🙀 A GOZARLO FUERTE 💖- Grand Theft Auto VI #2",
+      "creator": "IlloJuan",
+      "duration": 34110.0,
+      "views": 4443521,
+      "published": "2026-11-19T15:40:40Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-vod:2933884560": {
+      "key": "twitch-vod:2933884560",
+      "url": "https://www.twitch.tv/videos/2933884560",
+      "platform": "twitch-vod",
+      "title": "🦎GTA VI🦎CODIGOS CADA 10 MIN🦎DROPS EXCLUSIVOS🦎SEGUIMOS SIMPEANDO A LUCIA🦎",
+      "creator": "Rubius",
+      "duration": 31260.0,
+      "views": 2807872,
+      "published": "2026-11-19T17:07:46Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-vod:2933941381": {
+      "key": "twitch-vod:2933941381",
+      "url": "https://www.twitch.tv/videos/2933941381",
+      "platform": "twitch-vod",
+      "title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW  BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP #WWMPartner | @asmongold247",
+      "creator": "zackrawrr",
+      "duration": 30480.0,
+      "views": 1440404,
+      "published": "2026-11-19T17:58:07Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-vod:2934030540": {
+      "key": "twitch-vod:2934030540",
+      "url": "https://www.twitch.tv/videos/2934030540",
+      "platform": "twitch-vod",
+      "title": "GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
+      "creator": "TheBurntPeanut",
+      "duration": 57350.0,
+      "views": 2380344,
+      "published": "2026-11-19T19:13:21Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-vod:2934155295": {
+      "key": "twitch-vod:2934155295",
+      "url": "https://www.twitch.tv/videos/2934155295",
+      "platform": "twitch-vod",
+      "title": "🥥60 FPS GTA 6🥥LIVE🥥FINISHING PLAYTHROUGH🥥NOW🥥LONG STREAM PROBABLY🥥VERY COOL🥥LOCK IT IN🥥",
+      "creator": "xQc",
+      "duration": 48971.0,
+      "views": 1456267,
+      "published": "2026-11-19T21:03:04Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-vod:2934368883": {
+      "key": "twitch-vod:2934368883",
+      "url": "https://www.twitch.tv/videos/2934368883",
+      "platform": "twitch-vod",
+      "title": "[SUBATHON MIAMI] On continue le lets play de GTA VI ! | !subathon !holy !free !submiami",
+      "creator": "JLTomy",
+      "duration": 54720.0,
+      "views": 378672,
+      "published": "2026-11-20T00:19:38Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "twitch-vod:2934375809": {
       "key": "twitch-vod:2934375809",
       "url": "https://www.twitch.tv/videos/2934375809",
       "platform": "twitch-vod",
       "title": "ARI GAMEPLAYS + GTA VI🌴💃",
       "creator": "AriGameplays",
-      "duration": 9380,
-      "views": 188,
+      "duration": 10122.0,
+      "views": 185555,
       "published": "2026-11-20T00:26:06Z",
       "rights": "unspecified",
-      "anchors": [
-        9260
-      ],
+      "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": true
+      "recording": false
     },
     "youtube:-UuHA1h-Cf8": {
       "key": "youtube:-UuHA1h-Cf8",
@@ -410,21 +560,6 @@
       "parent_offset": null,
       "recording": false
     },
-    "youtube:Ui5eAdG6a-I": {
-      "key": "youtube:Ui5eAdG6a-I",
-      "url": "https://www.youtube.com/watch?v=Ui5eAdG6a-I",
-      "platform": "youtube",
-      "title": "GTA 6 – I Stole a Plane From the Airport and Fighter Jets Chased Me!",
-      "creator": "Champs Network",
-      "duration": 492.0,
-      "views": 278444,
-      "published": "2026-11-18T23:14:23Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false
-    },
     "youtube:Wd-vKw3XYP0": {
       "key": "youtube:Wd-vKw3XYP0",
       "url": "https://www.youtube.com/watch?v=Wd-vKw3XYP0",
@@ -479,6 +614,21 @@
       "duration": 57359.0,
       "views": 3168072,
       "published": "2026-11-19T19:13:20Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:dUYIMa2ifWM": {
+      "key": "youtube:dUYIMa2ifWM",
+      "url": "https://www.youtube.com/watch?v=dUYIMa2ifWM",
+      "platform": "youtube",
+      "title": "GTA 6 WTF and Funny Moments! #2",
+      "creator": "Zynxize",
+      "duration": 1098.0,
+      "views": 2559440,
+      "published": "2026-11-19T17:00:28Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -671,6 +821,16 @@
   "sequences": [
     {
       "span": {
+        "source": "twitch-vod:2933941381",
+        "start": 19118.16,
+        "end": 19378.16
+      },
+      "theme": "chase",
+      "story": "The excerpt begins with high-intensity gameplay of Jason shooting at police cruisers from the back of an ambulance during a high-speed chase. It transitions into cutscenes where Lucia drives them to safety, Jason recovers in bed, and they deal with motel management.",
+      "score": 95.0
+    },
+    {
+      "span": {
         "source": "youtube:YOxDxdVD4MY",
         "start": 390.4,
         "end": 810.4
@@ -761,6 +921,36 @@
     },
     {
       "span": {
+        "source": "youtube:yX4DH_msPkI",
+        "start": 34212.6,
+        "end": 34482.6
+      },
+      "theme": "mission",
+      "story": "Lucia and Jason infiltrate a Vice City tanning salon, distract the front desk, sneak into the back rooms, trap a target inside a tanning bed, and hack his phone to uncover reservation details.",
+      "score": 90.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2933884560",
+        "start": 25597.2,
+        "end": 25857.2
+      },
+      "theme": "mission",
+      "story": "Lucia navigates the motel complex, checks on her boyfriend Jason in room 06, visits Vicki in room 10 to negotiate for pain medication, smokes from a bong, pays Vicki money, and returns the pills to Jason.",
+      "score": 90.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2934368883",
+        "start": 70.0,
+        "end": 490
+      },
+      "theme": "mission",
+      "story": "Jason and Lucia walk through the Grassrivers Visitor Center, retrieve a bag from a public locker, and are subsequently ambushed and arrested by undercover police officers before being brought into an interrogation room.",
+      "score": 88.0
+    },
+    {
+      "span": {
         "source": "youtube:ymCHX_Dcc-U",
         "start": 180.0,
         "end": 470.0
@@ -808,6 +998,56 @@
       "theme": "discovery",
       "story": "Jason travels from city streets on a moped to the beach, interacts with an AI-obsessed eccentric stranger, and encounters wildlife on the shore.",
       "score": 88.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2933884560",
+        "start": 11657.52,
+        "end": 11974.52
+      },
+      "theme": "mission",
+      "story": "Jason collects hidden cash from a floor cache, interacts with Lucia at home, drives an orange pickup truck while using a smartphone app, and carjacks a sports car on the main road.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2934030540",
+        "start": 72.0,
+        "end": 332.0
+      },
+      "theme": "driving",
+      "story": "The player opens with a montage of cinematic Vice City night scenes showcasing fast supercars, drifting near palm-lined neon avenues, and navigating through alleyways while escaping police cruisers, culminating in a vehicle selection menu in a parking garage.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2934155295",
+        "start": 31266.84,
+        "end": 31531.84
+      },
+      "theme": "mission",
+      "story": "Lucia and Jason leave the nightclub, get into a purple underglow sedan, and drive through the city at night to a restaurant called Peewees where they interact with restaurant patrons and order food.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2934030540",
+        "start": 47251.9,
+        "end": 47511.9
+      },
+      "theme": "mission",
+      "story": "Lucia orders a RydeMe ride, gets into a vehicle, has it suspended, and drives a purple supercar through Vice City streets while chatting with Randy on her phone, ending in a shootout at a garage.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2933527290",
+        "start": 77938.66,
+        "end": 78203.66
+      },
+      "theme": "chase",
+      "story": "The player opens the map of Leonida, navigates menus, summons a ride, and travels through Vice City before engaging in firefights and navigating police wanted levels.",
+      "score": 85.0
     },
     {
       "span": {
@@ -1021,6 +1261,16 @@
     },
     {
       "span": {
+        "source": "twitch-vod:2933941381",
+        "start": 209.0,
+        "end": 490
+      },
+      "theme": "podcast",
+      "story": "The streamer reviews various social media reactions, news segments, and memes surrounding Grand Theft Auto VI, analyzing public perception and complaints.",
+      "score": 85.0
+    },
+    {
+      "span": {
         "source": "youtube:8zpkGW2DGCo",
         "start": 204.0,
         "end": 482.0
@@ -1071,6 +1321,36 @@
     },
     {
       "span": {
+        "source": "youtube:dUYIMa2ifWM",
+        "start": 562.74,
+        "end": 822.74
+      },
+      "theme": "discovery",
+      "story": "A compilation of various gameplay moments including exploration, vehicle stunts, firefights, and humorous interactions in Leonida.",
+      "score": 80.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2933358512",
+        "start": 6049.14,
+        "end": 6314.14
+      },
+      "theme": "driving",
+      "story": "The streamer rides in a taxi across the map, checks phone messages and map locations in Vice City surroundings, and then switches to driving a Vapid pickup truck.",
+      "score": 75.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2933789253",
+        "start": 27962.7,
+        "end": 28222.7
+      },
+      "theme": "party",
+      "story": "A group of characters interact inside a bar, talking, dancing, and drinking while a band plays on stage.",
+      "score": 75.0
+    },
+    {
+      "span": {
         "source": "youtube:5tdj53ioJ-c",
         "start": 12100.09,
         "end": 12364.09
@@ -1088,36 +1368,6 @@
       "theme": "mission",
       "story": "Lucia drives through the countryside, arrives at Delights strip club, interacts with Frankie Delight and other patrons, and explores the venue during a mission.",
       "score": 75.0
-    },
-    {
-      "span": {
-        "source": "youtube:Ui5eAdG6a-I",
-        "start": 18.64,
-        "end": 278.64
-      },
-      "theme": "chase",
-      "story": "The player breaches the airport security gate in a truck, evades ground patrols across the tarmac, boards a private jet, and takes off into the skies while police issue air support alerts.",
-      "score": 72.0
-    },
-    {
-      "span": {
-        "source": "twitch-vod:2932866051",
-        "start": 5043.5,
-        "end": 5308.5
-      },
-      "theme": "other",
-      "story": "The streamer navigates through Grand Theft Auto VI menus, adjusting interface, brightness, controls, and accessibility settings before experiencing the opening cinematic cutscenes set in Vice City.",
-      "score": 70.0
-    },
-    {
-      "span": {
-        "source": "youtube:eEERhKQZWmY",
-        "start": 4356.29,
-        "end": 4626.29
-      },
-      "theme": "mission",
-      "story": "The player visits the Moonstone Boutique, confronts the clerk for rent, retrieves acid from the backroom safe using code 0420, and proceeds to transport and deposit narcotics at Brian's lockup while dealing with nearby police.",
-      "score": 70.0
     }
   ]
 }
