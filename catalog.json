@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T18:18:44Z",
+  "generated_at": "2026-11-23T03:14:56Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -174,6 +174,24 @@
     "f061cb63ca6f516437ea": "2026-11-22T13:56:36Z",
     "dbe7c9909761bcf3428f": "2026-11-22T13:56:50Z",
     "1823d140344fde230af8": "2026-11-22T13:57:03Z",
+    "19f4ebdc2624793e075f": "2026-11-22T22:40:43Z",
+    "33a0881e19e73cc3e2af": "2026-11-22T22:41:05Z",
+    "b4ed8663c9dcdd49a80c": "2026-11-22T22:41:05Z",
+    "7f9035324dddc57e7049": "2026-11-22T22:41:05Z",
+    "0285e887805b9aef2e21": "2026-11-22T22:41:13Z",
+    "3d25e5fd8fa7c2c14468": "2026-11-22T22:42:15Z",
+    "45ca388553fd81ee59a2": "2026-11-22T22:42:24Z",
+    "290512257ede1c8d3956": "2026-11-22T22:43:29Z",
+    "6549c8986e710654ba5f": "2026-11-22T22:43:42Z",
+    "0d77183135a35c8e47f9": "2026-11-22T22:44:42Z",
+    "11bcc6f8d89be99720e6": "2026-11-22T22:44:52Z",
+    "31429f5a9a3bf7755e49": "2026-11-22T22:45:22Z",
+    "f234624f8eadee244b07": "2026-11-22T22:45:22Z",
+    "8f72bd90a3fba3cdc375": "2026-11-22T22:45:22Z",
+    "ebddc8a2d9f4746dfeb8": "2026-11-22T22:46:29Z",
+    "37f511534f9f39021ce3": "2026-11-22T22:46:38Z",
+    "0c22e9b2ad1a5cfde4e9": "2026-11-22T22:47:59Z",
+    "923cc269df6d817c1186": "2026-11-22T22:49:20Z",
     "bfeb05425a994329bc09": "2026-11-18T23:41:54Z",
     "a9cf2cbfc915fcfe06ee": "2026-11-18T23:51:35Z",
     "4abe23aea4142c77ae27": "2026-11-19T00:02:12Z",
@@ -274,7 +292,22 @@
     "20eaf51caa72b87fba2d": "2026-11-22T18:03:12Z",
     "e38817845c906a9b478f": "2026-11-22T18:09:47Z",
     "906f3870e98bd97bf348": "2026-11-22T18:13:27Z",
-    "1ff2550cc3a78ebfa140": "2026-11-22T18:14:38Z"
+    "1ff2550cc3a78ebfa140": "2026-11-22T18:14:38Z",
+    "af4e751950009cb54332": "2026-11-23T03:01:16Z",
+    "b142501319d787abc95f": "2026-11-23T03:03:22Z",
+    "5cf5e03676490c11a46c": "2026-11-23T03:03:32Z",
+    "23c54898899b1b6cfc76": "2026-11-23T03:04:20Z",
+    "0708624a756c12cec2e1": "2026-11-23T03:04:27Z",
+    "9e85a9ab2ef4d452c657": "2026-11-23T03:05:28Z",
+    "726c281f435fc050faba": "2026-11-23T03:05:36Z",
+    "c4fbb6065bff5c454484": "2026-11-23T03:07:51Z",
+    "c0a92a0d670d2edc7559": "2026-11-23T03:07:59Z",
+    "69c8c4fba344f4b44e70": "2026-11-23T03:10:14Z",
+    "d46e582eccd08b580321": "2026-11-23T03:10:26Z",
+    "37c2e3585bc8a40eff46": "2026-11-23T03:11:03Z",
+    "65aa9f00c79609bd7b5d": "2026-11-23T03:11:10Z",
+    "8cbd37947685a0e9a8fa": "2026-11-23T03:13:28Z",
+    "021d5a6d9de69f87052e": "2026-11-23T03:14:56Z"
   },
   "sources": {
     "twitch-vod:2933527290": {
@@ -284,7 +317,7 @@
       "title": "[DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 18 | !spenden !spendenziel !revolut !scuf",
       "creator": "xRohat",
       "duration": 94322.0,
-      "views": 1272600,
+      "views": 1272893,
       "published": "2026-11-19T09:52:53Z",
       "rights": "unspecified",
       "anchors": [],
@@ -404,7 +437,7 @@
       "title": "[SUBATHON MIAMI] On continue le lets play de GTA VI ! | !subathon !holy !free !submiami",
       "creator": "JLTomy",
       "duration": 54720.0,
-      "views": 381003,
+      "views": 381653,
       "published": "2026-11-20T00:19:38Z",
       "rights": "unspecified",
       "anchors": [],
@@ -434,7 +467,7 @@
       "title": "[DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 20 | !spenden !spendenziel !wolt !revolut !scuf",
       "creator": "xRohat",
       "duration": 42999.0,
-      "views": 583369,
+      "views": 583883,
       "published": "2026-11-20T12:06:09Z",
       "rights": "unspecified",
       "anchors": [],
@@ -517,6 +550,51 @@
       "parent_offset": null,
       "recording": false
     },
+    "twitch-vod:2935805716": {
+      "key": "twitch-vod:2935805716",
+      "url": "https://www.twitch.tv/videos/2935805716",
+      "platform": "twitch-vod",
+      "title": "[SUBATHON MIAMI] On découvre Vice City sur GTA VI | !subathon !holy !free !submiami",
+      "creator": "JLTomy",
+      "duration": 53090.0,
+      "views": 436636,
+      "published": "2026-11-21T04:45:34Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-vod:2936463658": {
+      "key": "twitch-vod:2936463658",
+      "url": "https://www.twitch.tv/videos/2936463658",
+      "platform": "twitch-vod",
+      "title": "[SUBATHON MIAMI] La suite du let's play GTA VI | !subathon !holy !free !submiami",
+      "creator": "JLTomy",
+      "duration": 69800.0,
+      "views": 544722,
+      "published": "2026-11-21T19:32:06Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-vod:2936966896": {
+      "key": "twitch-vod:2936966896",
+      "url": "https://www.twitch.tv/videos/2936966896",
+      "platform": "twitch-vod",
+      "title": "Gta 6",
+      "creator": "moistcr1tikal",
+      "duration": 11710.0,
+      "views": 91797,
+      "published": "2026-11-22T04:13:19Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "youtube:-UuHA1h-Cf8": {
       "key": "youtube:-UuHA1h-Cf8",
       "url": "https://www.youtube.com/watch?v=-UuHA1h-Cf8",
@@ -526,21 +604,6 @@
       "duration": 572.0,
       "views": 792691,
       "published": "2026-11-18T21:05:14Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false
-    },
-    "youtube:169ZzvPxvvM": {
-      "key": "youtube:169ZzvPxvvM",
-      "url": "https://www.youtube.com/watch?v=169ZzvPxvvM",
-      "platform": "youtube",
-      "title": "MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY #1",
-      "creator": "Techno Gamerz",
-      "duration": 7516.0,
-      "views": 8861516,
-      "published": "2026-11-19T13:30:31Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -644,7 +707,7 @@
       "title": "GTA 6 WTF and Funny Moments! #3",
       "creator": "Zynxize",
       "duration": 1171.0,
-      "views": 2506726,
+      "views": 3601517,
       "published": "2026-11-20T17:00:04Z",
       "rights": "unspecified",
       "anchors": [],
@@ -659,7 +722,7 @@
       "title": "🔴 LIVE! - GTA 6 EARLY ACCESS with TYPICAL GAMER! (PS5 PRO)",
       "creator": "Typical Gamer",
       "duration": 35745.0,
-      "views": 2825080,
+      "views": 2848797,
       "published": "2026-11-19T01:16:55Z",
       "rights": "unspecified",
       "anchors": [],
@@ -689,8 +752,23 @@
       "title": "🔴 BEATING GTA 6 RIGHT NOW 100% (FINAL MISSION)",
       "creator": "IShowSpeed",
       "duration": 22061.0,
-      "views": 22540047,
+      "views": 23835816,
       "published": "2026-11-20T12:46:26Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:OkbcDIqppKE": {
+      "key": "youtube:OkbcDIqppKE",
+      "url": "https://www.youtube.com/watch?v=OkbcDIqppKE",
+      "platform": "youtube",
+      "title": "GTA 6: What Actually Happens At IRREDEEMABLE? Permanent Criminal Profile Explained",
+      "creator": "Unknown Player",
+      "duration": 390.0,
+      "views": 708504,
+      "published": "2026-11-22T08:38:31Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -706,6 +784,21 @@
       "duration": 1285.0,
       "views": 21452650,
       "published": "2026-11-20T20:43:18Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:R97EoVD1nr4": {
+      "key": "youtube:R97EoVD1nr4",
+      "url": "https://www.youtube.com/watch?v=R97EoVD1nr4",
+      "platform": "youtube",
+      "title": "GTA 6 Gameplay Walkthrough FULL GAME [4K PS5 PRO] - No Commentary",
+      "creator": "MKIceAndFire",
+      "duration": 104381.0,
+      "views": 1644823,
+      "published": "2026-11-22T06:42:11Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -734,7 +827,7 @@
       "title": "Grand Theft Auto 6 Gameplay and Impressions...",
       "creator": "jackfrags",
       "duration": 2218.0,
-      "views": 3123414,
+      "views": 3494012,
       "published": "2026-11-18T22:04:15Z",
       "rights": "unspecified",
       "anchors": [],
@@ -779,7 +872,7 @@
       "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
       "creator": "TheBurntPeanut",
       "duration": 57359.0,
-      "views": 3168072,
+      "views": 3377388,
       "published": "2026-11-19T19:13:20Z",
       "rights": "unspecified",
       "anchors": [],
@@ -811,21 +904,6 @@
       "duration": 1098.0,
       "views": 3359322,
       "published": "2026-11-19T17:00:28Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false
-    },
-    "youtube:eEERhKQZWmY": {
-      "key": "youtube:eEERhKQZWmY",
-      "url": "https://www.youtube.com/watch?v=eEERhKQZWmY",
-      "platform": "youtube",
-      "title": "The Beginning of GTA 6.. (Ep. 1)",
-      "creator": "Caylus  ",
-      "duration": 13661.0,
-      "views": 1962985,
-      "published": "2026-11-19T03:03:19Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -869,7 +947,7 @@
       "title": "IT'S FINALLY HERE | Grand Theft Auto 6 - Part 1",
       "creator": "jacksepticeye",
       "duration": 10485.0,
-      "views": 4322493,
+      "views": 4725127,
       "published": "2026-11-18T23:47:15Z",
       "rights": "unspecified",
       "anchors": [],
@@ -884,7 +962,7 @@
       "title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 (DAY 2)",
       "creator": "Kai Cenat Live",
       "duration": 41640.0,
-      "views": 2748474,
+      "views": 2740753,
       "published": "2026-11-20T01:04:50Z",
       "rights": "unspecified",
       "anchors": [],
@@ -980,6 +1058,26 @@
       "theme": "stunt",
       "story": "The sequence follows the player stealing a jet, performing chaotic low-altitude flights through the city, getting wasted, and then exploring street-level interactions with NPCs.",
       "score": 92.0
+    },
+    {
+      "span": {
+        "source": "youtube:R97EoVD1nr4",
+        "start": 58634.0,
+        "end": 59054.0
+      },
+      "theme": "mission",
+      "story": "The sequence follows Lucia and Mia driving to a residential property to pitch a real estate sale to gang members. They tour the house, showcasing the interior rooms and backyard, before the situation turns hostile and the gang pulls guns on them.",
+      "score": 90.0
+    },
+    {
+      "span": {
+        "source": "youtube:OkbcDIqppKE",
+        "start": 0.0,
+        "end": 260.0
+      },
+      "theme": "discovery",
+      "story": "The narrator breaks down the new GTA VI criminal profile system, demonstrating how different tiers from Professional to Hardened, Violent, Psycho, and Irredeemable affect gameplay, police aggression, and interaction options.",
+      "score": 90.0
     },
     {
       "span": {
@@ -1203,6 +1301,16 @@
     },
     {
       "span": {
+        "source": "twitch-vod:2935805716",
+        "start": 126.0,
+        "end": 420.0
+      },
+      "theme": "mission",
+      "story": "Jason and Lucia drive through Vice City, stop at a gas station, and explore the interior store and backrooms.",
+      "score": 88.0
+    },
+    {
+      "span": {
         "source": "youtube:1GeQU0SEC-E",
         "start": 825.57,
         "end": 1164.57
@@ -1210,6 +1318,26 @@
       "theme": "discovery",
       "story": "Jason alters his appearance, evades police by sleeping, works out, drives a damaged truck to sell collectibles at a pawn shop, and explores various side activities.",
       "score": 86.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2936463658",
+        "start": 193.0,
+        "end": 467.0
+      },
+      "theme": "mission",
+      "story": "Lucia talks with Andy and Bailey in a house, receives a Cellerica delivery kit and a cap, then drives an Audi sedan to deliver the package to a house in Mamey Circle while talking on the phone with Jason about a pyramid scheme.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2936966896",
+        "start": 70.0,
+        "end": 330.0
+      },
+      "theme": "mission",
+      "story": "The character enters a club, meets with crew members discussing business and artists, gets into a red car to drive across the city, and interacts with local figures at an outdoor courtyard.",
+      "score": 85.0
     },
     {
       "span": {
@@ -1409,56 +1537,6 @@
       },
       "theme": "discovery",
       "story": "The streamer reacts with surprise and excitement to the official Grand Theft Auto VI trailer reveals, stopping to analyze character interactions, car robberies, police encounters, and setting details across Vice City while providing live commentary.",
-      "score": 85.0
-    },
-    {
-      "span": {
-        "source": "youtube:oyHFwPNd_c4",
-        "start": 10979.23,
-        "end": 11259.23
-      },
-      "theme": "mission",
-      "story": "Jason browses items at a yard sale, purchases sunglasses, runs through neighborhood streets to locate a liquor store, enters the shop to pick up Shirley's rum from the clerk, and successfully delivers the rum back to Shirley.",
-      "score": 85.0
-    },
-    {
-      "span": {
-        "source": "youtube:eEERhKQZWmY",
-        "start": 6421.89,
-        "end": 6681.89
-      },
-      "theme": "discovery",
-      "story": "Jason performs a strength workout at his beach house, checks his mail for payments, and drives around the area interacting with locals.",
-      "score": 85.0
-    },
-    {
-      "span": {
-        "source": "youtube:169ZzvPxvvM",
-        "start": 5038.16,
-        "end": 5303.16
-      },
-      "theme": "discovery",
-      "story": "Jason wakes up early at his stilt house, steps out onto the deck to check the weather, uses his phone, exercises with barbell squats on the porch, changes his outfit inside the wardrobe, refreshes himself in the bathroom shower, feeds his pet snake, drinks a protein shake from the fridge, and eventually heads outside to explore Vice City in his pickup truck.",
-      "score": 85.0
-    },
-    {
-      "span": {
-        "source": "youtube:CukTYtF72KY",
-        "start": 2756.43,
-        "end": 3112.43
-      },
-      "theme": "mission",
-      "story": "Jason and his crew take a boat charter to a diving spot where they gear up and dive into the ocean. Jason guides the bachelor party through underwater coral trenches, leading them to a shipwreck site while interacting via comms, equipping a metal detector, and searching the seabed for treasure.",
-      "score": 85.0
-    },
-    {
-      "span": {
-        "source": "youtube:AbMP2JHRinA",
-        "start": 2840.07,
-        "end": 3110.07
-      },
-      "theme": "discovery",
-      "story": "Jason explores the beach environment, encounters various eccentric NPCs having dialogue, interacts with a stray dog under a beach structure, and eventually boards a boat.",
       "score": 85.0
     }
   ]
