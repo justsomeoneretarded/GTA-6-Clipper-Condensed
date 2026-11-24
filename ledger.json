@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "edits": [
+    {
+      "id": "6cabfd3189c9bee0a4fe",
+      "ranges": [
+        {
+          "source": "twitch-vod:2933941381",
+          "start": 19097.66,
+          "end": 19109.16
+        },
+        {
+          "source": "twitch-vod:2933941381",
+          "start": 19109.16,
+          "end": 19143.16
+        },
+        {
+          "source": "twitch-vod:2933941381",
+          "start": 19143.16,
+          "end": 19174.16
+        },
+        {
+          "source": "twitch-vod:2933941381",
+          "start": 19174.16,
+          "end": 19198.16
+        },
+        {
+          "source": "twitch-vod:2933941381",
+          "start": 19198.16,
+          "end": 19220.16
+        },
+        {
+          "source": "twitch-vod:2933941381",
+          "start": 19227.16,
+          "end": 19247.16
+        },
+        {
+          "source": "twitch-vod:2933941381",
+          "start": 19257.16,
+          "end": 19273.16
+        },
+        {
+          "source": "twitch-vod:2933941381",
+          "start": 19318.16,
+          "end": 19348.16
+        },
+        {
+          "source": "twitch-vod:2933941381",
+          "start": 19358.16,
+          "end": 19391.16
+        },
+        {
+          "source": "twitch-vod:2933941381",
+          "start": 19438.16,
+          "end": 19458.16
+        }
+      ],
+      "fingerprints": [],
+      "date": "2026-11-24T01:01:48Z"
+    }
+  ],
+  "rejected": []
+}
