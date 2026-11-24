@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T00:55:47Z",
+  "generated_at": "2026-11-24T10:04:54Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -441,7 +441,23 @@
     "dbccefa32a586d2a09f9": "2026-11-24T00:51:51Z",
     "bb997afb5a2b6c77f90e": "2026-11-24T00:53:41Z",
     "a64d4ab761c6e224154c": "2026-11-24T00:54:46Z",
-    "188dda6d150142901fa6": "2026-11-24T00:55:47Z"
+    "188dda6d150142901fa6": "2026-11-24T00:55:47Z",
+    "7dd3af46cc10e2529ccb": "2026-11-24T09:47:32Z",
+    "e706d48c61ed4f07f0f1": "2026-11-24T09:49:43Z",
+    "030d079b52b0b6f8c356": "2026-11-24T09:50:10Z",
+    "b31f1dc6ffccb401f3bd": "2026-11-24T09:52:24Z",
+    "346b08d48ba124518b33": "2026-11-24T09:52:30Z",
+    "ed30c95b0a1430639704": "2026-11-24T09:54:09Z",
+    "c6b377920e80c337582b": "2026-11-24T09:54:37Z",
+    "89d6ac8d9f1fb683d58f": "2026-11-24T09:56:49Z",
+    "537105510837c1066aaa": "2026-11-24T09:57:06Z",
+    "7a2e98aa432bac521174": "2026-11-24T09:58:15Z",
+    "85c6e77aa7e0c48f5734": "2026-11-24T09:58:39Z",
+    "bb933a80d4bdfb0eb111": "2026-11-24T09:59:55Z",
+    "5cba8e1d6626dcd52070": "2026-11-24T10:00:14Z",
+    "0b1f1cba62b6dadb965a": "2026-11-24T10:02:12Z",
+    "dc54a52261f22627deb3": "2026-11-24T10:02:18Z",
+    "84935852fe0bc726bba9": "2026-11-24T10:04:54Z"
   },
   "sources": {
     "twitch-vod:2933538555": {
@@ -540,22 +556,6 @@
       "recording": false,
       "recorded": ""
     },
-    "twitch-vod:2934845902": {
-      "key": "twitch-vod:2934845902",
-      "url": "https://www.twitch.tv/videos/2934845902",
-      "platform": "twitch-vod",
-      "title": "[DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 20 | !spenden !spendenziel !wolt !revolut !scuf",
-      "creator": "xRohat",
-      "duration": 42999.0,
-      "views": 583954,
-      "published": "2026-11-20T12:06:09Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false,
-      "recorded": ""
-    },
     "twitch-vod:2934866208": {
       "key": "twitch-vod:2934866208",
       "url": "https://www.twitch.tv/videos/2934866208",
@@ -585,38 +585,6 @@
       "anchors": [
         26014.0
       ],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false,
-      "recorded": ""
-    },
-    "twitch-vod:2935185818": {
-      "key": "twitch-vod:2935185818",
-      "url": "https://www.twitch.tv/videos/2935185818",
-      "platform": "twitch-vod",
-      "title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW  BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP #WWMPartner | @asmongold247",
-      "creator": "zackrawrr",
-      "duration": 31051.0,
-      "views": 1395078,
-      "published": "2026-11-20T18:33:31Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false,
-      "recorded": ""
-    },
-    "twitch-vod:2935613960": {
-      "key": "twitch-vod:2935613960",
-      "url": "https://www.twitch.tv/videos/2935613960",
-      "platform": "twitch-vod",
-      "title": "BEATING GTA 6 RIGHT NOW *FINALE*",
-      "creator": "KaiCenat",
-      "duration": 27395.0,
-      "views": 54506,
-      "published": "2026-11-21T01:17:10Z",
-      "rights": "unspecified",
-      "anchors": [],
       "parent": "",
       "parent_offset": null,
       "recording": false,
@@ -654,38 +622,6 @@
       "recording": false,
       "recorded": ""
     },
-    "twitch-vod:2936463658": {
-      "key": "twitch-vod:2936463658",
-      "url": "https://www.twitch.tv/videos/2936463658",
-      "platform": "twitch-vod",
-      "title": "[SUBATHON MIAMI] La suite du let's play GTA VI | !subathon !holy !free !submiami",
-      "creator": "JLTomy",
-      "duration": 69800.0,
-      "views": 546365,
-      "published": "2026-11-21T19:32:06Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false,
-      "recorded": ""
-    },
-    "twitch-vod:2936966896": {
-      "key": "twitch-vod:2936966896",
-      "url": "https://www.twitch.tv/videos/2936966896",
-      "platform": "twitch-vod",
-      "title": "Gta 6",
-      "creator": "moistcr1tikal",
-      "duration": 11710.0,
-      "views": 91797,
-      "published": "2026-11-22T04:13:19Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false,
-      "recorded": ""
-    },
     "twitch-vod:2936967569": {
       "key": "twitch-vod:2936967569",
       "url": "https://www.twitch.tv/videos/2936967569",
@@ -693,7 +629,7 @@
       "title": "GTA6 そろそろデカい山に関わらせてください ネタバレ禁",
       "creator": "sasatikk",
       "duration": 24333.0,
-      "views": 241910,
+      "views": 242854,
       "published": "2026-11-22T04:14:17Z",
       "rights": "unspecified",
       "anchors": [],
@@ -801,7 +737,7 @@
       "title": "🟨LOSING MY MIND🟨",
       "creator": "caseoh_",
       "duration": 53558.0,
-      "views": 3003867,
+      "views": 3018402,
       "published": "2026-11-22T20:02:14Z",
       "rights": "unspecified",
       "anchors": [
@@ -850,6 +786,99 @@
       "recording": false,
       "recorded": ""
     },
+    "twitch-vod:2938342600": {
+      "key": "twitch-vod:2938342600",
+      "url": "https://www.twitch.tv/videos/2938342600",
+      "platform": "twitch-vod",
+      "title": "🔴[DROPS] GTA 6 FULL PLAYTHROUGH (99% DONE)🔴",
+      "creator": "ohnePixel",
+      "duration": 31710.0,
+      "views": 1241165,
+      "published": "2026-11-23T13:39:17Z",
+      "rights": "unspecified",
+      "anchors": [
+        13303.0,
+        8040.0,
+        19010.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
+    "twitch-vod:2938386346": {
+      "key": "twitch-vod:2938386346",
+      "url": "https://www.twitch.tv/videos/2938386346",
+      "platform": "twitch-vod",
+      "title": "CÓDIGOS PARA SUBS 🌴 !DROPS ON 🌴 GTA 6 #6 LISTO PARA 6 HORAS MÁS Y AVANZAR UN 1% EN HISTORIA",
+      "creator": "auronplay",
+      "duration": 20380.0,
+      "views": 848889,
+      "published": "2026-11-23T14:50:37Z",
+      "rights": "unspecified",
+      "anchors": [
+        15465.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
+    "twitch-vod:2938510132": {
+      "key": "twitch-vod:2938510132",
+      "url": "https://www.twitch.tv/videos/2938510132",
+      "platform": "twitch-vod",
+      "title": "LUCÍA CAMINOS 🙇🏻‍♂️ MI MAMI 🥺 LELE PANXA 👶🏻 joder qué vergüenza de título lo siento - Grand Theft Auto VI #5",
+      "creator": "IlloJuan",
+      "duration": 29640.0,
+      "views": 1771839,
+      "published": "2026-11-23T17:28:57Z",
+      "rights": "unspecified",
+      "anchors": [
+        19489.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
+    "twitch-vod:2938664561": {
+      "key": "twitch-vod:2938664561",
+      "url": "https://www.twitch.tv/videos/2938664561",
+      "platform": "twitch-vod",
+      "title": "[684/730] ♟️ JYNXZI vs GOTHAMCHESS @ 4:30 ET ♟️ GTA 6 DAY 4 ♟️",
+      "creator": "Jynxzi",
+      "duration": 21160.0,
+      "views": 959553,
+      "published": "2026-11-23T20:11:12Z",
+      "rights": "unspecified",
+      "anchors": [
+        20694.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
+    "twitch-vod:2938666621": {
+      "key": "twitch-vod:2938666621",
+      "url": "https://www.twitch.tv/videos/2938666621",
+      "platform": "twitch-vod",
+      "title": "stream nocturno 🌴 GTA VI a 60fps",
+      "creator": "Rubius",
+      "duration": 23090.0,
+      "views": 906591,
+      "published": "2026-11-23T20:13:25Z",
+      "rights": "unspecified",
+      "anchors": [
+        1706.0,
+        10134.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
     "youtube:-UuHA1h-Cf8": {
       "key": "youtube:-UuHA1h-Cf8",
       "url": "https://www.youtube.com/watch?v=-UuHA1h-Cf8",
@@ -859,22 +888,6 @@
       "duration": 572.0,
       "views": 792691,
       "published": "2026-11-18T21:05:14Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false,
-      "recorded": ""
-    },
-    "youtube:1GeQU0SEC-E": {
-      "key": "youtube:1GeQU0SEC-E",
-      "url": "https://www.youtube.com/watch?v=1GeQU0SEC-E",
-      "platform": "youtube",
-      "title": "Can You Live a Normal Life in GTA 6?",
-      "creator": "Arean",
-      "duration": 1399.0,
-      "views": 1889481,
-      "published": "2026-11-20T16:53:43Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -946,6 +959,22 @@
       "recording": false,
       "recorded": ""
     },
+    "youtube:MqFGfn22BmY": {
+      "key": "youtube:MqFGfn22BmY",
+      "url": "https://www.youtube.com/watch?v=MqFGfn22BmY",
+      "platform": "youtube",
+      "title": "Robbing EVERY BANK in GTA 6 Without Stopping...",
+      "creator": "Nemsk",
+      "duration": 2076.0,
+      "views": 1148030,
+      "published": "2026-11-22T23:36:26Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
     "youtube:OIeLbmyraRQ": {
       "key": "youtube:OIeLbmyraRQ",
       "url": "https://www.youtube.com/watch?v=OIeLbmyraRQ",
@@ -953,7 +982,7 @@
       "title": "🔴 BEATING GTA 6 RIGHT NOW 100% (FINAL MISSION)",
       "creator": "IShowSpeed",
       "duration": 22061.0,
-      "views": 23938913,
+      "views": 24387629,
       "published": "2026-11-20T12:46:26Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1033,7 +1062,7 @@
       "title": "GTA 6 Gameplay Walkthrough FULL GAME [4K PS5 PRO] No Commentary",
       "creator": "Shirrako",
       "duration": 129958.0,
-      "views": 2804177,
+      "views": 3194073,
       "published": "2026-11-20T19:41:59Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1097,7 +1126,7 @@
       "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
       "creator": "TheBurntPeanut",
       "duration": 57359.0,
-      "views": 3396322,
+      "views": 3469012,
       "published": "2026-11-19T19:13:20Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1138,6 +1167,22 @@
       "recording": false,
       "recorded": ""
     },
+    "youtube:hwSg39yIBGU": {
+      "key": "youtube:hwSg39yIBGU",
+      "url": "https://www.youtube.com/watch?v=hwSg39yIBGU",
+      "platform": "youtube",
+      "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
+      "creator": "IShowSpeed",
+      "duration": 85282.0,
+      "views": 38212971,
+      "published": "2026-11-19T13:04:39Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
     "youtube:oyHFwPNd_c4": {
       "key": "youtube:oyHFwPNd_c4",
       "url": "https://www.youtube.com/watch?v=oyHFwPNd_c4",
@@ -1161,7 +1206,7 @@
       "title": "IT'S FINALLY HERE | Grand Theft Auto 6 - Part 1",
       "creator": "jacksepticeye",
       "duration": 10485.0,
-      "views": 4808186,
+      "views": 5109077,
       "published": "2026-11-18T23:47:15Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1193,7 +1238,7 @@
       "title": "I Survived 100 Hours In GTA 6",
       "creator": "MrBeast Gaming",
       "duration": 1821.0,
-      "views": 29098685,
+      "views": 68430691,
       "published": "2026-11-19T18:00:01Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1278,12 +1323,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2937666104",
-        "start": 2417.0,
-        "end": 2697.0
+        "source": "twitch-vod:2938342600",
+        "start": 13158.0,
+        "end": 13423.0
       },
-      "theme": "chase",
-      "story": "Jason starts driving a red sports car, accepts a highway race, crashes, gets into a gunfight, steals an opponent's green car, and escapes the police.",
+      "theme": "mission",
+      "story": "Jason and Lucia confront a motel resident, Benedict Halifax, accusing him of taking a missing statue. They enter his room and discover another woman inside with him, leading to a tense interrogation about stolen credit cards and the missing piece.",
       "score": 90.0
     },
     {
@@ -1298,12 +1343,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2933884560",
-        "start": 25597.2,
-        "end": 25857.2
+        "source": "twitch-vod:2937666104",
+        "start": 2417.0,
+        "end": 2697.0
       },
-      "theme": "mission",
-      "story": "Lucia navigates the motel complex, checks on her boyfriend Jason in room 06, visits Vicki in room 10 to negotiate for pain medication, smokes from a bong, pays Vicki money, and returns the pills to Jason.",
+      "theme": "chase",
+      "story": "Jason starts driving a red sports car, accepts a highway race, crashes, gets into a gunfight, steals an opponent's green car, and escapes the police.",
       "score": 90.0
     },
     {
@@ -1318,13 +1363,13 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2936063961",
-        "start": 12419.12,
-        "end": 12729.12
+        "source": "twitch-vod:2933884560",
+        "start": 25597.2,
+        "end": 25857.2
       },
       "theme": "mission",
-      "story": "A chronological sequence following an action-packed helicopter escape, aftermath events at a venue, police investigations, and tense dialogue among characters.",
-      "score": 88.0
+      "story": "Lucia navigates the motel complex, checks on her boyfriend Jason in room 06, visits Vicki in room 10 to negotiate for pain medication, smokes from a bong, pays Vicki money, and returns the pills to Jason.",
+      "score": 90.0
     },
     {
       "span": {
@@ -1338,12 +1383,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2934866208",
-        "start": 23714.904,
-        "end": 23991.904
+        "source": "twitch-vod:2938666621",
+        "start": 1618.0,
+        "end": 1911.0
       },
-      "theme": "mission",
-      "story": "The player takes off in a crop duster airplane from a swampy airstrip carrying drug packages under a ticking clock, flying low through sunset skies to avoid radar and dropping packages at various coastal and island coordinates while listening to radio dialogue about past smuggling mishaps and avoiding law enforcement.",
+      "theme": "discovery",
+      "story": "The streamer reviews open-world exploration elements, balcony interactions, character dialogue, and map navigation highlighting missions in Vice City.",
       "score": 88.0
     },
     {
@@ -1358,12 +1403,52 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2933675245",
-        "start": 7932.8,
-        "end": 8352.8
+        "source": "twitch-vod:2938510132",
+        "start": 24252.6,
+        "end": 24512.6
       },
       "theme": "mission",
-      "story": "Jason and Lucia walk through a settlement towards a bar, interact and dance with various quirky local acquaintances while drinking and socializing.",
+      "story": "Jason and Lucía explore Hamlet on foot, hold hands, check the map UI, interact with NPCs, hug, and head toward the BMX stunt challenge area.",
+      "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:hwSg39yIBGU",
+        "start": 49729.13,
+        "end": 50009.13
+      },
+      "theme": "mission",
+      "story": "Jason and crew navigate a series of shootouts, clothing changes, and high-speed drives through Vice City to set up a meeting with Royce at a hotel lobby.",
+      "score": 90.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2936063961",
+        "start": 12419.12,
+        "end": 12729.12
+      },
+      "theme": "mission",
+      "story": "A chronological sequence following an action-packed helicopter escape, aftermath events at a venue, police investigations, and tense dialogue among characters.",
+      "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:MqFGfn22BmY",
+        "start": 180.0,
+        "end": 490
+      },
+      "theme": "mission",
+      "story": "Jason and Lucia leave a bank, get into a Pfister Astron, and drive to a Fleeca Bank. Jason breaks in through the staff access door, takes out guards, accesses the security room to read the safe code email on a computer, and opens the safe to steal marked bills. Afterwards, they escape from the police, stash the bags in the vehicle trunk, and drive away.",
+      "score": 90.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2934866208",
+        "start": 23714.904,
+        "end": 23991.904
+      },
+      "theme": "mission",
+      "story": "The player takes off in a crop duster airplane from a swampy airstrip carrying drug packages under a ticking clock, flying low through sunset skies to avoid radar and dropping packages at various coastal and island coordinates while listening to radio dialogue about past smuggling mishaps and avoiding law enforcement.",
       "score": 88.0
     },
     {
@@ -1378,12 +1463,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2933599748",
-        "start": 20002.77,
-        "end": 20262.77
+        "source": "twitch-vod:2933675245",
+        "start": 7932.8,
+        "end": 8352.8
       },
-      "theme": "discovery",
-      "story": "The player explores the motel interior, manages save files, and interacts with room amenities before heading outside into the open world.",
+      "theme": "mission",
+      "story": "Jason and Lucia walk through a settlement towards a bar, interact and dance with various quirky local acquaintances while drinking and socializing.",
       "score": 88.0
     },
     {
@@ -1398,12 +1483,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2934368883",
-        "start": 70.0,
-        "end": 490
+        "source": "twitch-vod:2933599748",
+        "start": 20002.77,
+        "end": 20262.77
       },
-      "theme": "mission",
-      "story": "Jason and Lucia walk through the Grassrivers Visitor Center, retrieve a bag from a public locker, and are subsequently ambushed and arrested by undercover police officers before being brought into an interrogation room.",
+      "theme": "discovery",
+      "story": "The player explores the motel interior, manages save files, and interacts with room amenities before heading outside into the open world.",
       "score": 88.0
     },
     {
@@ -1418,12 +1503,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2935805716",
-        "start": 126.0,
-        "end": 420.0
+        "source": "twitch-vod:2934368883",
+        "start": 70.0,
+        "end": 490
       },
       "theme": "mission",
-      "story": "Jason and Lucia drive through Vice City, stop at a gas station, and explore the interior store and backrooms.",
+      "story": "Jason and Lucia walk through the Grassrivers Visitor Center, retrieve a bag from a public locker, and are subsequently ambushed and arrested by undercover police officers before being brought into an interrogation room.",
       "score": 88.0
     },
     {
@@ -1438,13 +1523,13 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2937733476",
-        "start": 18454.0,
-        "end": 18723.0
+        "source": "twitch-vod:2935805716",
+        "start": 126.0,
+        "end": 420.0
       },
-      "theme": "discovery",
-      "story": "A compilation of various gameplay clips showing exaggerated violent scenarios and unexpected chaotic encounters across Vice City.",
-      "score": 85.0
+      "theme": "mission",
+      "story": "Jason and Lucia drive through Vice City, stop at a gas station, and explore the interior store and backrooms.",
+      "score": 88.0
     },
     {
       "span": {
@@ -1458,12 +1543,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2937882458",
-        "start": 10445.0,
-        "end": 10710.0
+        "source": "twitch-vod:2938664561",
+        "start": 20549.0,
+        "end": 20849.0
       },
       "theme": "mission",
-      "story": "Jason and Noah attempt to rescue and transport a chimpanzee named Clive in a cage using a forklift, leading to comedic banter, a confrontation with a security guard, and a surprising mishap involving the chimpanzee.",
+      "story": "The player navigates hotel hallways, fights NPCs on rooftops, and battles law enforcement amidst escalating chaos.",
       "score": 85.0
     },
     {
@@ -1478,12 +1563,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2935071086",
-        "start": 25869.0,
-        "end": 26189.0
+        "source": "twitch-vod:2938386346",
+        "start": 15320.0,
+        "end": 15585.0
       },
       "theme": "mission",
-      "story": "A chronological segment showing the streamer reacting to Lucia's surreal party mission, exploring hallways, and encountering repetitive bizarre rooms.",
+      "story": "Lucia and Jason explore their apartment, manage outfits in the wardrobe, shower, interact with NPCs outside, take selfies, and converse in the streets of Vice City.",
       "score": 85.0
     },
     {
@@ -1498,12 +1583,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2937449247",
-        "start": 27647.3,
-        "end": 27967.3
+        "source": "twitch-vod:2937666104",
+        "start": 6254.0,
+        "end": 6534.0
       },
-      "theme": "mission",
-      "story": "Lucia checks text messages on her phone, walks into a motel reception, interacts with the receptionist Linda about rent payment issues, investigates missing person posters and phone gallery photos, and checks map locations related to missing tourists in Port Gellhorn.",
+      "theme": "driving",
+      "story": "The player navigates the map of Vice City, drives an orange convertible through city streets and highways, explores locations and map markers, and eventually pulls into a garage to use repair and respray services.",
       "score": 85.0
     },
     {
@@ -1518,12 +1603,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2937242599",
-        "start": 17902.0,
-        "end": 18230.0
+        "source": "twitch-vod:2937733476",
+        "start": 18454.0,
+        "end": 18723.0
       },
       "theme": "discovery",
-      "story": "The streamer navigates an abstract space menu, inspecting glowing planetary globes, zooming in on Earth to explore geographical features, roads, bridges, and landmarks of the game's setting.",
+      "story": "A compilation of various gameplay clips showing exaggerated violent scenarios and unexpected chaotic encounters across Vice City.",
       "score": 85.0
     },
     {
@@ -1538,12 +1623,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2937333836",
-        "start": 17705.0,
-        "end": 17970.0
+        "source": "twitch-vod:2937882458",
+        "start": 10445.0,
+        "end": 10710.0
       },
       "theme": "mission",
-      "story": "Jason changes clothes and manages vehicle delivery using his phone on a bridge, recovers items from the trunk, coordinates with Lucia, and navigates map markers.",
+      "story": "Jason and Noah attempt to rescue and transport a chimpanzee named Clive in a cage using a forklift, leading to comedic banter, a confrontation with a security guard, and a surprising mishap involving the chimpanzee.",
       "score": 85.0
     },
     {
@@ -1558,12 +1643,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2937218402",
-        "start": 542.0,
-        "end": 851.0
+        "source": "twitch-vod:2935071086",
+        "start": 25869.0,
+        "end": 26189.0
       },
-      "theme": "podcast",
-      "story": "The streamer reacts to a viral video about seniors in a retirement home playing GTA VI for the first time, leading into a broader discussion about gaming habits, getting older, and anticipation for the game.",
+      "theme": "mission",
+      "story": "A chronological segment showing the streamer reacting to Lucia's surreal party mission, exploring hallways, and encountering repetitive bizarre rooms.",
       "score": 85.0
     },
     {
@@ -1578,12 +1663,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2937242599",
-        "start": 27863.1,
-        "end": 28128.1
+        "source": "twitch-vod:2937449247",
+        "start": 27647.3,
+        "end": 27967.3
       },
-      "theme": "discovery",
-      "story": "Lucia and Jason walk through a gym, check their phones for secret messages regarding the No Flushers, scan a QR code on the wall, and eventually leave to explore the city streets.",
+      "theme": "mission",
+      "story": "Lucia checks text messages on her phone, walks into a motel reception, interacts with the receptionist Linda about rent payment issues, investigates missing person posters and phone gallery photos, and checks map locations related to missing tourists in Port Gellhorn.",
       "score": 85.0
     },
     {
@@ -1598,12 +1683,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2937333836",
-        "start": 10762.72,
-        "end": 11027.72
+        "source": "twitch-vod:2937242599",
+        "start": 17902.0,
+        "end": 18230.0
       },
-      "theme": "chase",
-      "story": "Jason and Lucia flee through a wooded area while dodging police helicopters and SWAT units during a high-heat five-star chase.",
+      "theme": "discovery",
+      "story": "The streamer navigates an abstract space menu, inspecting glowing planetary globes, zooming in on Earth to explore geographical features, roads, bridges, and landmarks of the game's setting.",
       "score": 85.0
     },
     {
@@ -1618,12 +1703,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2937465519",
-        "start": 6249.72,
-        "end": 6509.72
+        "source": "twitch-vod:2937333836",
+        "start": 17705.0,
+        "end": 17970.0
       },
       "theme": "mission",
-      "story": "The player attempts a bank security van heist mission, tailing the truck while dealing with chat instructions and gunfights.",
+      "story": "Jason changes clothes and manages vehicle delivery using his phone on a bridge, recovers items from the trunk, coordinates with Lucia, and navigates map markers.",
       "score": 85.0
     },
     {
@@ -1638,12 +1723,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2936463658",
-        "start": 193.0,
-        "end": 467.0
+        "source": "twitch-vod:2937218402",
+        "start": 542.0,
+        "end": 851.0
       },
-      "theme": "mission",
-      "story": "Lucia talks with Andy and Bailey in a house, receives a Cellerica delivery kit and a cap, then drives an Audi sedan to deliver the package to a house in Mamey Circle while talking on the phone with Jason about a pyramid scheme.",
+      "theme": "podcast",
+      "story": "The streamer reacts to a viral video about seniors in a retirement home playing GTA VI for the first time, leading into a broader discussion about gaming habits, getting older, and anticipation for the game.",
       "score": 85.0
     },
     {
@@ -1658,12 +1743,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2936966896",
-        "start": 70.0,
-        "end": 330.0
+        "source": "twitch-vod:2937242599",
+        "start": 27863.1,
+        "end": 28128.1
       },
-      "theme": "mission",
-      "story": "The character enters a club, meets with crew members discussing business and artists, gets into a red car to drive across the city, and interacts with local figures at an outdoor courtyard.",
+      "theme": "discovery",
+      "story": "Lucia and Jason walk through a gym, check their phones for secret messages regarding the No Flushers, scan a QR code on the wall, and eventually leave to explore the city streets.",
       "score": 85.0
     },
     {
@@ -1678,12 +1763,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2935071086",
-        "start": 10703.0,
-        "end": 10968.0
+        "source": "twitch-vod:2937333836",
+        "start": 10762.72,
+        "end": 11027.72
       },
-      "theme": "mission",
-      "story": "The streamer plays through nighttime gameplay in Grand Theft Auto VI, exploring the open world, interacting with vehicles, and demonstrating various game mechanics like driving and menus.",
+      "theme": "chase",
+      "story": "Jason and Lucia flee through a wooded area while dodging police helicopters and SWAT units during a high-heat five-star chase.",
       "score": 85.0
     },
     {
@@ -1698,12 +1783,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2935185818",
-        "start": 19113.74,
-        "end": 19378.74
+        "source": "twitch-vod:2937465519",
+        "start": 6249.72,
+        "end": 6509.72
       },
       "theme": "mission",
-      "story": "Jason and crew meet with Boobie in the recording studio to discuss drug operations and deal dynamics.",
+      "story": "The player attempts a bank security van heist mission, tailing the truck while dealing with chat instructions and gunfights.",
       "score": 85.0
     },
     {
@@ -1715,46 +1800,6 @@
       "theme": "discovery",
       "story": "Jason travels from city streets on a moped to the beach, interacts with an AI-obsessed eccentric stranger, and encounters wildlife on the shore.",
       "score": 88.0
-    },
-    {
-      "span": {
-        "source": "twitch-vod:2934845902",
-        "start": 18053.5,
-        "end": 18313.5
-      },
-      "theme": "mission",
-      "story": "The player navigates a tense apartment complex shootout, battling armed enemies through corridors, utilizing elevators and stairwells while managing health and ammunition, culminating in a chaotic escape attempt.",
-      "score": 85.0
-    },
-    {
-      "span": {
-        "source": "youtube:OIeLbmyraRQ",
-        "start": 13006.96,
-        "end": 13322.96
-      },
-      "theme": "mission",
-      "story": "The player manages in-game smartphone banking applications to transfer funds, navigates the map to locate heist and mission targets across Vice City, and receives phone call briefings regarding final job preparations.",
-      "score": 88.0
-    },
-    {
-      "span": {
-        "source": "twitch-vod:2935613960",
-        "start": 110.0,
-        "end": 385.0
-      },
-      "theme": "mission",
-      "story": "The player drives a truck through Vice City, engages in a shootout at a dock facility, enters a large airliner via the cargo bay, fights crew members while moving through the passenger cabins, and eventually reaches the upper deck confrontation.",
-      "score": 85.0
-    },
-    {
-      "span": {
-        "source": "youtube:1GeQU0SEC-E",
-        "start": 825.57,
-        "end": 1164.57
-      },
-      "theme": "discovery",
-      "story": "Jason alters his appearance, evades police by sleeping, works out, drives a damaged truck to sell collectibles at a pawn shop, and explores various side activities.",
-      "score": 86.0
     }
   ]
 }
