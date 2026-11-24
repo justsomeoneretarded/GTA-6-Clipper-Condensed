@@ -59,5 +59,11 @@
       "date": "2026-11-24T01:01:48Z"
     }
   ],
-  "rejected": []
+  "rejected": [
+    {
+      "id": "26d20d7fdeac56d00e3e",
+      "date": "2026-11-24T10:56:07Z",
+      "reason": "The finished edit lacked verifiable GTA VI evidence. The footage is heavily suspected to be a GTA V mod or fan-made roleplay recreation rather than official Grand Theft Auto VI gameplay, failing the validation scope."
+    }
+  ]
 }
