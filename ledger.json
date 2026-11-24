@@ -64,6 +64,16 @@
       "id": "26d20d7fdeac56d00e3e",
       "date": "2026-11-24T10:56:07Z",
       "reason": "The finished edit lacked verifiable GTA VI evidence. The footage is heavily suspected to be a GTA V mod or fan-made roleplay recreation rather than official Grand Theft Auto VI gameplay, failing the validation scope."
+    },
+    {
+      "id": "246f714b0f57b8545d24",
+      "date": "2026-11-24T21:05:11Z",
+      "reason": "The finished edit lacked verifiable GTA VI evidence. The video utilizes Grand Theft Auto V mods styled to look like Grand Theft Auto VI rather than actual game footage."
+    },
+    {
+      "id": "cabf797d1845e35e2a4c",
+      "date": "2026-11-24T21:23:15Z",
+      "reason": "Final opening takes too long to establish the hook."
     }
   ]
 }
