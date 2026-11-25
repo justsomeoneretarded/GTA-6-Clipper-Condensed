@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T04:09:32Z",
+  "generated_at": "2026-11-25T14:13:53Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -313,6 +313,46 @@
     "3f3c1183d611aaf35b2f": "2026-11-24T16:23:53Z",
     "e460b00dd2ef53279c0f": "2026-11-24T16:24:11Z",
     "ba3425b1c798968ce045": "2026-11-24T16:24:18Z",
+    "6c5805499a3e29f040ce": "2026-11-25T01:31:29Z",
+    "fa316cc26d2a4a9e3272": "2026-11-25T01:31:29Z",
+    "bf032142a609e8a89f8d": "2026-11-25T01:31:29Z",
+    "af4afab08a3316703a50": "2026-11-25T01:31:56Z",
+    "6234ff147ad2841f2c73": "2026-11-25T01:31:56Z",
+    "9de2e80d38d171a6baed": "2026-11-25T01:31:56Z",
+    "1d066e21d0dcb6b1702d": "2026-11-25T01:32:52Z",
+    "fb19ebac5f266d272b1a": "2026-11-25T01:33:12Z",
+    "58b498428ab08e934707": "2026-11-25T01:33:12Z",
+    "0458d83e17c6a716f569": "2026-11-25T01:33:12Z",
+    "c89045943846170bfa47": "2026-11-25T01:33:43Z",
+    "8472d3ea35f69ae1f62b": "2026-11-25T01:33:43Z",
+    "4d539bd8802ae67d568f": "2026-11-25T01:33:43Z",
+    "e5e6e50d34397f8d7ed6": "2026-11-25T01:34:38Z",
+    "d926f6c6eaf4f52fefc6": "2026-11-25T01:34:53Z",
+    "9ae71ea44f60a31798d6": "2026-11-25T01:34:53Z",
+    "a153600b84824fabcf64": "2026-11-25T01:34:53Z",
+    "a453101347404b1aca21": "2026-11-25T01:35:14Z",
+    "13bb8e8bf28ffa4dad91": "2026-11-25T01:35:14Z",
+    "e994757152c96b0532f1": "2026-11-25T01:35:14Z",
+    "f5cd4f5770568c52e23e": "2026-11-25T01:36:33Z",
+    "1c89ecbee5649f6d35e3": "2026-11-25T01:36:56Z",
+    "1250ce5c6206c79fca70": "2026-11-25T01:36:56Z",
+    "e47f5248453900c7202c": "2026-11-25T01:36:56Z",
+    "567b566f249871e55180": "2026-11-25T01:37:28Z",
+    "94ec0ddb41ca7fb95d1a": "2026-11-25T01:37:28Z",
+    "3c75f4cc619323d9c097": "2026-11-25T01:37:28Z",
+    "52f6be2318c3743eca9c": "2026-11-25T01:38:32Z",
+    "05901dec8e7756464fba": "2026-11-25T01:38:51Z",
+    "3fcc9bc0f059fd4e1041": "2026-11-25T01:38:51Z",
+    "a058eb23a159081b8202": "2026-11-25T01:38:51Z",
+    "e73ef330f2bff5d79001": "2026-11-25T01:39:10Z",
+    "494955ae36419ac8d1cc": "2026-11-25T01:39:10Z",
+    "13036f213a2b83147747": "2026-11-25T01:39:10Z",
+    "b1a47462e25f15746744": "2026-11-25T01:40:15Z",
+    "6dd032f78938cf6e39ff": "2026-11-25T01:40:31Z",
+    "4266210ca5235c8f5e00": "2026-11-25T01:41:02Z",
+    "e782e24246f4ece66ea6": "2026-11-25T01:42:24Z",
+    "73e9a81aa16138946735": "2026-11-25T01:43:04Z",
+    "0b9f02ca660b4d693e89": "2026-11-25T01:43:53Z",
     "bfeb05425a994329bc09": "2026-11-18T23:41:54Z",
     "a9cf2cbfc915fcfe06ee": "2026-11-18T23:51:35Z",
     "4abe23aea4142c77ae27": "2026-11-19T00:02:12Z",
@@ -515,7 +555,19 @@
     "436492618ad2089e648e": "2026-11-25T04:02:59Z",
     "3c68e77ed4e3b0c50b99": "2026-11-25T04:04:20Z",
     "a13b748b83bbbc3c2a69": "2026-11-25T04:06:43Z",
-    "78869a3b39525e0378b3": "2026-11-25T04:09:32Z"
+    "78869a3b39525e0378b3": "2026-11-25T04:09:32Z",
+    "2fac4103db9ae167d477": "2026-11-25T13:37:15Z",
+    "9d491e6d0297a8896c2c": "2026-11-25T13:39:31Z",
+    "f87103033e5ee33b3630": "2026-11-25T13:43:11Z",
+    "a1b08d995111e0ca9f8e": "2026-11-25T13:48:45Z",
+    "305e19edd0d4d9327ab3": "2026-11-25T13:50:21Z",
+    "39b5681e0f88089a28cc": "2026-11-25T13:54:17Z",
+    "b85bdb2b01861ea742b9": "2026-11-25T13:55:32Z",
+    "65cce666e3c0df6067da": "2026-11-25T13:57:17Z",
+    "6e9897ba93d3fc7f53c6": "2026-11-25T13:59:38Z",
+    "e27e438ae0e764b7cd10": "2026-11-25T14:03:42Z",
+    "3c9f3b115b0e19f7f8a0": "2026-11-25T14:05:27Z",
+    "0b679a289808eae9a1c2": "2026-11-25T14:08:30Z"
   },
   "sources": {
     "twitch-vod:2933538555": {
@@ -687,7 +739,7 @@
       "title": "🟨LOSING MY MIND🟨",
       "creator": "caseoh_",
       "duration": 53558.0,
-      "views": 3026037,
+      "views": 3028604,
       "published": "2026-11-22T20:02:14Z",
       "rights": "unspecified",
       "anchors": [
@@ -710,44 +762,6 @@
       "rights": "unspecified",
       "anchors": [
         14559.0
-      ],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false,
-      "recorded": ""
-    },
-    "twitch-vod:2938362563": {
-      "key": "twitch-vod:2938362563",
-      "url": "https://www.twitch.tv/videos/2938362563",
-      "platform": "twitch-vod",
-      "title": "[DROPS] 🦩🌴 MR. GEIL STREAMT 🦩🌴 GTA 6 STORY BEENDEN? 🦩🌴 80% FERTIG 🦩🌴 ICH LIEBE DIESES GAME 🦩🌴  !socials !esn !pmm",
-      "creator": "zarbex",
-      "duration": 32549.0,
-      "views": 700321,
-      "published": "2026-11-23T14:11:46Z",
-      "rights": "unspecified",
-      "anchors": [
-        24804.0
-      ],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false,
-      "recorded": ""
-    },
-    "twitch-vod:2938467977": {
-      "key": "twitch-vod:2938467977",
-      "url": "https://www.twitch.tv/videos/2938467977",
-      "platform": "twitch-vod",
-      "title": "gta 6 vivendo a vida curtindo adoidado é",
-      "creator": "alanzoka",
-      "duration": 31976.0,
-      "views": 943106,
-      "published": "2026-11-23T16:40:41Z",
-      "rights": "unspecified",
-      "anchors": [
-        26312.0,
-        14668.0,
-        19292.0
       ],
       "parent": "",
       "parent_offset": null,
@@ -779,33 +793,13 @@
       "title": "🟨LOSING MY MIND🟨",
       "creator": "caseoh_",
       "duration": 37936.0,
-      "views": 2266188,
+      "views": 2278133,
       "published": "2026-11-23T20:02:25Z",
       "rights": "unspecified",
       "anchors": [
-        28846.0,
         10009.0,
-        10121.0
-      ],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false,
-      "recorded": ""
-    },
-    "twitch-vod:2938664561": {
-      "key": "twitch-vod:2938664561",
-      "url": "https://www.twitch.tv/videos/2938664561",
-      "platform": "twitch-vod",
-      "title": "[684/730] ♟️ JYNXZI vs GOTHAMCHESS @ 4:30 ET ♟️ GTA 6 DAY 4 ♟️",
-      "creator": "Jynxzi",
-      "duration": 21160.0,
-      "views": 969786,
-      "published": "2026-11-23T20:11:12Z",
-      "rights": "unspecified",
-      "anchors": [
-        20694.0,
-        12762.0,
-        20554.0
+        10121.0,
+        28799.0
       ],
       "parent": "",
       "parent_offset": null,
@@ -888,6 +882,26 @@
       "recording": false,
       "recorded": ""
     },
+    "twitch-vod:2939255332": {
+      "key": "twitch-vod:2939255332",
+      "url": "https://www.twitch.tv/videos/2939255332",
+      "platform": "twitch-vod",
+      "title": "🟢 GTA 6 DAY 6 🟢 72% COMPLETE 🟢 COMPLETING GRAND THEFT AUTO VI",
+      "creator": "Zerkaa",
+      "duration": 33790.0,
+      "views": 167451,
+      "published": "2026-11-24T11:08:26Z",
+      "rights": "unspecified",
+      "anchors": [
+        854.0,
+        11348.0,
+        12933.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
     "twitch-vod:2939324211": {
       "key": "twitch-vod:2939324211",
       "url": "https://www.twitch.tv/videos/2939324211",
@@ -895,12 +909,31 @@
       "title": "🔴[DROPS] GTA 6 EYETRACKER CHALLENGE🔴",
       "creator": "ohnePixel",
       "duration": 27770.0,
-      "views": 997226,
+      "views": 1007198,
       "published": "2026-11-24T13:25:01Z",
       "rights": "unspecified",
       "anchors": [
+        516.0,
         3901.0,
-        516.0
+        1106.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
+    "twitch-vod:2939364350": {
+      "key": "twitch-vod:2939364350",
+      "url": "https://www.twitch.tv/videos/2939364350",
+      "platform": "twitch-vod",
+      "title": "DROPS ✅ [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
+      "creator": "MissMikkaa",
+      "duration": 33260.0,
+      "views": 232930,
+      "published": "2026-11-24T14:31:36Z",
+      "rights": "unspecified",
+      "anchors": [
+        20945.0
       ],
       "parent": "",
       "parent_offset": null,
@@ -914,12 +947,50 @@
       "title": "KAI VS SPEED: FIRST TO MAKE A MILLION DOLLARS IN GTA 6",
       "creator": "KaiCenat",
       "duration": 17889.0,
-      "views": 1435745,
+      "views": 1445630,
       "published": "2026-11-24T17:36:25Z",
       "rights": "unspecified",
       "anchors": [
         10835.0,
         17420.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
+    "twitch-vod:2939550825": {
+      "key": "twitch-vod:2939550825",
+      "url": "https://www.twitch.tv/videos/2939550825",
+      "platform": "twitch-vod",
+      "title": "[685/730] 🔴 CLIPS -> FIRST TIME PLAYING GTA 6 DAY 5 🔴",
+      "creator": "Jynxzi",
+      "duration": 23680.0,
+      "views": 837536,
+      "published": "2026-11-24T18:26:49Z",
+      "rights": "unspecified",
+      "anchors": [
+        20835.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
+    "twitch-vod:2939595957": {
+      "key": "twitch-vod:2939595957",
+      "url": "https://www.twitch.tv/videos/2939595957",
+      "platform": "twitch-vod",
+      "title": "GTA 6 LE PILOTE EST LÀ LIVE 354H NON-STOP!!",
+      "creator": "Squeezie",
+      "duration": 17766.0,
+      "views": 548722,
+      "published": "2026-11-24T19:13:56Z",
+      "rights": "unspecified",
+      "anchors": [
+        4510.0,
+        4617.0,
+        2522.0
       ],
       "parent": "",
       "parent_offset": null,
@@ -1370,12 +1441,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938844374",
-        "start": 17946.0,
-        "end": 18206.0
+        "source": "twitch-vod:2939324211",
+        "start": 9627.2,
+        "end": 9887.2
       },
-      "theme": "mission",
-      "story": "Jason and Lucia enter the Jack of Hearts nightclub, walk through the crowd, interact with dancers and security, and navigate the club's interior spaces.",
+      "theme": "driving",
+      "story": "Jason and Lucia drive through Vice City, navigating bridges and highways with in-car conversations.",
       "score": 90.0
     },
     {
@@ -1390,12 +1461,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938655753",
-        "start": 28701.0,
-        "end": 28966.0
+        "source": "twitch-vod:2938844374",
+        "start": 17946.0,
+        "end": 18206.0
       },
       "theme": "mission",
-      "story": "The sequence starts with a frantic shootout in a rural swamp settlement where Jason is heavily targeted, leading to his death and respawn at a dock. From there, the player navigates the in-game map, opens phone apps to review bank locations and plan robberies, and uses 'RydeMe' to get picked up by Lucia.",
+      "story": "Jason and Lucia enter the Jack of Hearts nightclub, walk through the crowd, interact with dancers and security, and navigate the club's interior spaces.",
       "score": 90.0
     },
     {
@@ -1410,12 +1481,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938342600",
-        "start": 13158.0,
-        "end": 13423.0
+        "source": "twitch-vod:2938655753",
+        "start": 28701.0,
+        "end": 28966.0
       },
       "theme": "mission",
-      "story": "Jason and Lucia confront a motel resident, Benedict Halifax, accusing him of taking a missing statue. They enter his room and discover another woman inside with him, leading to a tense interrogation about stolen credit cards and the missing piece.",
+      "story": "The sequence starts with a frantic shootout in a rural swamp settlement where Jason is heavily targeted, leading to his death and respawn at a dock. From there, the player navigates the in-game map, opens phone apps to review bank locations and plan robberies, and uses 'RydeMe' to get picked up by Lucia.",
       "score": 90.0
     },
     {
@@ -1430,12 +1501,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2937666104",
-        "start": 2417.0,
-        "end": 2697.0
+        "source": "twitch-vod:2938342600",
+        "start": 13158.0,
+        "end": 13423.0
       },
-      "theme": "chase",
-      "story": "Jason starts driving a red sports car, accepts a highway race, crashes, gets into a gunfight, steals an opponent's green car, and escapes the police.",
+      "theme": "mission",
+      "story": "Jason and Lucia confront a motel resident, Benedict Halifax, accusing him of taking a missing statue. They enter his room and discover another woman inside with him, leading to a tense interrogation about stolen credit cards and the missing piece.",
       "score": 90.0
     },
     {
@@ -1450,12 +1521,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2933884560",
-        "start": 25597.2,
-        "end": 25857.2
+        "source": "twitch-vod:2937666104",
+        "start": 2417.0,
+        "end": 2697.0
       },
-      "theme": "mission",
-      "story": "Lucia navigates the motel complex, checks on her boyfriend Jason in room 06, visits Vicki in room 10 to negotiate for pain medication, smokes from a bong, pays Vicki money, and returns the pills to Jason.",
+      "theme": "chase",
+      "story": "Jason starts driving a red sports car, accepts a highway race, crashes, gets into a gunfight, steals an opponent's green car, and escapes the police.",
       "score": 90.0
     },
     {
@@ -1470,13 +1541,13 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938789341",
-        "start": 20087.0,
-        "end": 20347.0
+        "source": "twitch-vod:2933884560",
+        "start": 25597.2,
+        "end": 25857.2
       },
       "theme": "mission",
-      "story": "Jason and Lucia search through multiple motel rooms looking for a stolen item, eventually encountering a bewildered man in a towel and a woman on a bed.",
-      "score": 88.0
+      "story": "Lucia navigates the motel complex, checks on her boyfriend Jason in room 06, visits Vicki in room 10 to negotiate for pain medication, smokes from a bong, pays Vicki money, and returns the pills to Jason.",
+      "score": 90.0
     },
     {
       "span": {
@@ -1490,12 +1561,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938967116",
-        "start": 20839.0,
-        "end": 21099.0
+        "source": "twitch-vod:2938789341",
+        "start": 20087.0,
+        "end": 20347.0
       },
       "theme": "mission",
-      "story": "The player starts by dousing a car in gasoline, triggering an explosive fire under a bridge, then flees into the woods on foot while making a phone call, and eventually completes a mission objective.",
+      "story": "Jason and Lucia search through multiple motel rooms looking for a stolen item, eventually encountering a bewildered man in a towel and a woman on a bed.",
       "score": 88.0
     },
     {
@@ -1510,12 +1581,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938666621",
-        "start": 1618.0,
-        "end": 1911.0
+        "source": "twitch-vod:2938967116",
+        "start": 20839.0,
+        "end": 21099.0
       },
-      "theme": "discovery",
-      "story": "The streamer reviews open-world exploration elements, balcony interactions, character dialogue, and map navigation highlighting missions in Vice City.",
+      "theme": "mission",
+      "story": "The player starts by dousing a car in gasoline, triggering an explosive fire under a bridge, then flees into the woods on foot while making a phone call, and eventually completes a mission objective.",
       "score": 88.0
     },
     {
@@ -1530,12 +1601,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938510132",
-        "start": 24252.6,
-        "end": 24512.6
+        "source": "twitch-vod:2938666621",
+        "start": 1618.0,
+        "end": 1911.0
       },
-      "theme": "mission",
-      "story": "Jason and Lucía explore Hamlet on foot, hold hands, check the map UI, interact with NPCs, hug, and head toward the BMX stunt challenge area.",
+      "theme": "discovery",
+      "story": "The streamer reviews open-world exploration elements, balcony interactions, character dialogue, and map navigation highlighting missions in Vice City.",
       "score": 88.0
     },
     {
@@ -1550,12 +1621,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2936063961",
-        "start": 12419.12,
-        "end": 12729.12
+        "source": "twitch-vod:2938510132",
+        "start": 24252.6,
+        "end": 24512.6
       },
       "theme": "mission",
-      "story": "A chronological sequence following an action-packed helicopter escape, aftermath events at a venue, police investigations, and tense dialogue among characters.",
+      "story": "Jason and Lucía explore Hamlet on foot, hold hands, check the map UI, interact with NPCs, hug, and head toward the BMX stunt challenge area.",
       "score": 88.0
     },
     {
@@ -1566,6 +1637,26 @@
       },
       "theme": "discovery",
       "story": "The player explores the docks, interacts with wildlife, strolls through downtown Vice City at sunset, visits clothing stores, hangs out in a club lounge, and ends up in an escalating police chase after stealing a tour bus.",
+      "score": 90.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2936063961",
+        "start": 12419.12,
+        "end": 12729.12
+      },
+      "theme": "mission",
+      "story": "A chronological sequence following an action-packed helicopter escape, aftermath events at a venue, police investigations, and tense dialogue among characters.",
+      "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 181.0,
+        "end": 441.0
+      },
+      "theme": "driving",
+      "story": "Jason stashes his money under the floorboards, explores his living quarters, takes a phone call from Brian about rent collection, rides his motorcycle through Key Lento, and drives down the highway while taking another phone call.",
       "score": 90.0
     },
     {
@@ -1581,11 +1672,11 @@
     {
       "span": {
         "source": "youtube:CukTYtF72KY",
-        "start": 181.0,
-        "end": 441.0
+        "start": 2118.91,
+        "end": 2438.91
       },
-      "theme": "driving",
-      "story": "Jason stashes his money under the floorboards, explores his living quarters, takes a phone call from Brian about rent collection, rides his motorcycle through Key Lento, and drives down the highway while taking another phone call.",
+      "theme": "discovery",
+      "story": "Jason starts at his Key Lento safehouse, checks his mailbox for a cash payout from Brian, shoots hoops at the basketball hoop, stashes cash under the floorboards, works on home renovations including drywall and repairing exterior stairs, changes his outfit in the wardrobe, and drives off in his Vapid truck.",
       "score": 90.0
     },
     {
@@ -1600,12 +1691,12 @@
     },
     {
       "span": {
-        "source": "youtube:CukTYtF72KY",
-        "start": 2118.91,
-        "end": 2438.91
+        "source": "youtube:YylVwL4UIFU",
+        "start": 41166.9,
+        "end": 41431.9
       },
-      "theme": "discovery",
-      "story": "Jason starts at his Key Lento safehouse, checks his mailbox for a cash payout from Brian, shoots hoops at the basketball hoop, stashes cash under the floorboards, works on home renovations including drywall and repairing exterior stairs, changes his outfit in the wardrobe, and drives off in his Vapid truck.",
+      "theme": "mission",
+      "story": "The player navigates through various missions, evades police, steals vehicles, and completes objectives across the map.",
       "score": 90.0
     },
     {
@@ -1620,12 +1711,12 @@
     },
     {
       "span": {
-        "source": "youtube:YylVwL4UIFU",
-        "start": 41166.9,
-        "end": 41431.9
+        "source": "youtube:yX4DH_msPkI",
+        "start": 34212.6,
+        "end": 34482.6
       },
       "theme": "mission",
-      "story": "The player navigates through various missions, evades police, steals vehicles, and completes objectives across the map.",
+      "story": "Lucia and Jason infiltrate a Vice City tanning salon, distract the front desk, sneak into the back rooms, trap a target inside a tanning bed, and hack his phone to uncover reservation details.",
       "score": 90.0
     },
     {
@@ -1641,11 +1732,11 @@
     {
       "span": {
         "source": "youtube:yX4DH_msPkI",
-        "start": 34212.6,
-        "end": 34482.6
+        "start": 29060.1,
+        "end": 29320.1
       },
       "theme": "mission",
-      "story": "Lucia and Jason infiltrate a Vice City tanning salon, distract the front desk, sneak into the back rooms, trap a target inside a tanning bed, and hack his phone to uncover reservation details.",
+      "story": "Jason navigates through Vice City, completes mission objectives, engages in shootouts at a lab, manages phone messages regarding relationship status, and explores apartment buildings.",
       "score": 90.0
     },
     {
@@ -1660,26 +1751,6 @@
     },
     {
       "span": {
-        "source": "youtube:yX4DH_msPkI",
-        "start": 29060.1,
-        "end": 29320.1
-      },
-      "theme": "mission",
-      "story": "Jason navigates through Vice City, completes mission objectives, engages in shootouts at a lab, manages phone messages regarding relationship status, and explores apartment buildings.",
-      "score": 90.0
-    },
-    {
-      "span": {
-        "source": "twitch-vod:2939504732",
-        "start": 10690.0,
-        "end": 10955.0
-      },
-      "theme": "chase",
-      "story": "Jason navigates through a jewelry heist interior, escapes with stolen goods into a blue sports car, and attempts to evade police pursuit while driving through Vice City streets.",
-      "score": 85.0
-    },
-    {
-      "span": {
         "source": "youtube:XUQ7qoZjNBA",
         "start": 24735.19,
         "end": 25001.19
@@ -1690,12 +1761,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2939324211",
-        "start": 3756.0,
-        "end": 4021.0
+        "source": "twitch-vod:2939550825",
+        "start": 20690.0,
+        "end": 20990.0
       },
-      "theme": "driving",
-      "story": "The streamer drives a white car through the streets of Vice City, crashing into traffic, getting out of the damaged vehicle, and entering Ajax Gym to explore its interior facilities.",
+      "theme": "chase",
+      "story": "The player drives a police vehicle through a rural area at night, evading police pursuit, running into fences and animals, and later hiding in bushes and swimming through canals to escape K9 units.",
       "score": 85.0
     },
     {
@@ -1710,12 +1781,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938655753",
-        "start": 9864.0,
-        "end": 10124.0
+        "source": "twitch-vod:2939595957",
+        "start": 4365.0,
+        "end": 4625.0
       },
       "theme": "mission",
-      "story": "The player attempts to drive Mattia to the hospital in a high-speed mission ('VC Baby'), crashing multiple vehicles, hijacking a cement truck after rolling the sports car, and ultimately failing when time runs out before reaching the destination.",
+      "story": "Jason acts as a pool boy on a film set, lotioning models under the director's instructions, then engages in a fistfight with Rodney which leads to Rodney getting knocked out.",
       "score": 85.0
     },
     {
@@ -1730,12 +1801,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2939504732",
-        "start": 7354.45,
-        "end": 7619.45
+        "source": "twitch-vod:2939364350",
+        "start": 20801.133,
+        "end": 21105.334
       },
-      "theme": "mission",
-      "story": "The player drives across the city, delivers a large sum of stolen money in a duffel bag to a contact, and successfully completes a cash payout.",
+      "theme": "discovery",
+      "story": "The streamer navigates the in-game map of the Vice City region, drives to an RV park pool area where NPCs are gathered, and explores interactions with characters around the pool and bar.",
       "score": 85.0
     },
     {
@@ -1750,12 +1821,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938342600",
-        "start": 9830.0,
-        "end": 10150.0
+        "source": "twitch-vod:2939255332",
+        "start": 709.0,
+        "end": 1013.0
       },
       "theme": "mission",
-      "story": "The player participates in the Cellerica initiation ceremony inside a wellness center, interacting with characters like Andy and Lucia, doing breathing exercises, and sharing personal confessions.",
+      "story": "The player drives an off-road truck along the beach of Vice City while discussing game mechanics, checks map and player status menus showing Jason and Lucia's profiles, then sets a waypoint to find Felipe in Millport.",
       "score": 85.0
     },
     {
@@ -1770,12 +1841,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938467977",
-        "start": 26167.0,
-        "end": 26427.0
+        "source": "twitch-vod:2939504732",
+        "start": 14499.27,
+        "end": 14784.27
       },
-      "theme": "discovery",
-      "story": "Jason explores a coastal lighthouse, swims around the structure, climbs to the top, and unexpectedly finds Lucia waiting at the summit.",
+      "theme": "driving",
+      "story": "The player drives a red sports car through city streets, drops off a stash bag at a smoke shop, navigates the map to locate a security van mission, and races across highways while discussing strategy and vehicle upgrades.",
       "score": 85.0
     },
     {
@@ -1790,12 +1861,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938362563",
-        "start": 24659.0,
-        "end": 24924.0
+        "source": "twitch-vod:2939504732",
+        "start": 10690.0,
+        "end": 10955.0
       },
-      "theme": "mission",
-      "story": "Jason drives around Vice City, talks with crew members inside a hideout, and heads out on a delivery mission.",
+      "theme": "chase",
+      "story": "Jason navigates through a jewelry heist interior, escapes with stolen goods into a blue sports car, and attempts to evade police pursuit while driving through Vice City streets.",
       "score": 85.0
     },
     {
@@ -1810,12 +1881,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938342600",
-        "start": 8260.56,
-        "end": 8558.56
+        "source": "twitch-vod:2939324211",
+        "start": 3756.0,
+        "end": 4021.0
       },
       "theme": "driving",
-      "story": "The streamer starts inside a garage with Jason and Lucia, navigating out into Vice City in a purple sports car. They embark on an extended high-speed driving session through urban streets and alleys while commenting on the open-world physics, traffic behavior, and vehicle handling before briefly checking the map menu.",
+      "story": "The streamer drives a white car through the streets of Vice City, crashing into traffic, getting out of the damaged vehicle, and entering Ajax Gym to explore its interior facilities.",
       "score": 85.0
     },
     {
@@ -1830,12 +1901,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2938664561",
-        "start": 20549.0,
-        "end": 20849.0
+        "source": "twitch-vod:2938655753",
+        "start": 9864.0,
+        "end": 10124.0
       },
       "theme": "mission",
-      "story": "The player navigates hotel hallways, fights NPCs on rooftops, and battles law enforcement amidst escalating chaos.",
+      "story": "The player attempts to drive Mattia to the hospital in a high-speed mission ('VC Baby'), crashing multiple vehicles, hijacking a cement truck after rolling the sports car, and ultimately failing when time runs out before reaching the destination.",
       "score": 85.0
     },
     {
